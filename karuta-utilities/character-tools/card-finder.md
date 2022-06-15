@@ -9,7 +9,7 @@ Card Finder allows you to locate cards at or lower than 1000 print. Leg does thi
 {% hint style="info" %}
 Command: "leg cardfinder [\[Character UUID\]](../../faq-frequently-asked-questions/whats-a-character-uuid.md) \<Edition (Optional)> \<p\[>/\</=]\[Print Number] (Optional)>"
 
-Aliases: "printfinder", "cardfind", "trace", "cardtrace"
+Aliases: "cf", "printfinder", "cardfind", "trace", "cardtrace"
 
 
 
