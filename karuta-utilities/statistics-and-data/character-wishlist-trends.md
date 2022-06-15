@@ -1,0 +1,2 @@
+# Character Wishlist Trends
+

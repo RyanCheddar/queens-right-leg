@@ -1,0 +1,33 @@
+# Server Premium
+
+Server Premium is Premium Access for entire servers. The perks of Server Premium are:
+
+### Bot Perks
+
+* [Personal Premium](personal-premium.md) for all server members\
+  (As long as they're using Leg in your server)
+* \+3 Ephemeral Reminder Slots for server members\
+  (Ephemeral Reminder Slots can only be used in Date Solver, but they bypass the normal per-user Reminder slot limit, even if a user doesn't have Personal Premium.)
+
+### Karuta-related Perks
+
+* Higher drop quota before [Massdrop Mode](../../karuta-utilities/drop-analysis/massdrop-mode.md) automatically enables (25 drops/3 minutes/channel > 50 drops)
+* Automatic Drop Reanalysis for all drops
+* No "\[FREE ANALYSIS]" message for drop analysis
+* [Wishlist Notifications](../../admin-management/drop-notifications/wishlist-notifications.md) (Ping roles when a drop has a character over x wishlist!)
+* Increased [Dropboard](../../admin-management/dropboards.md) Limit (1 Dropboard > 10!)
+* Role Pinging in [Dropboards](../../admin-management/dropboards.md)
+
+### Price of Server Premium: $5 / 500 💎 a month
+
+Extra 30 days when buying 180 days at once using USD!
+
+Payment with 🎟 tickets is allowed, but price will be dependent on market price.
+
+{% hint style="info" %}
+Some perks of Personal Premium that apply everywhere (i.e. not just in your server) might not be given to your members when you buy Server Premium.
+
+Some features that are affected by this include:
+
+* Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
+{% endhint %}

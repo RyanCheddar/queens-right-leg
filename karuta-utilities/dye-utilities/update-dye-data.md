@@ -1,0 +1,28 @@
+---
+description: Give Leg access to your dye data
+---
+
+# Update Dye Data
+
+{% hint style="info" %}
+Command: "leg dyeupdate"\
+Aliases: "updatedyes", "updatedye"
+
+You may need to do "kdyes" first before running this command.
+{% endhint %}
+
+In order to use dye-related commands, you must first give Leg access to your dye data.
+
+If you have never done this command before, you will be asked whether you want to authorize Leg to access your dye data. Once you do this, your dyes may become publicly viewable to anyone.
+
+To unauthorize Leg and delete your dye data, do "leg dyeunauth".
+
+{% hint style="warning" %}
+This feature is not provided by Karuta. Leg simply visits your dye page and looks through the dyes you own, only if you allow it to. \
+\
+For privacy reasons (and to make Karuta safer), Leg never obtains your dye data without your consent.
+{% endhint %}
+
+{% hint style="success" %}
+You will be able to make your dyes private in a future update.
+{% endhint %}
