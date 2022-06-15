@@ -22,6 +22,23 @@ Please do not buy Premium access for features that might come in the future. Buy
 [server-premium.md](server-premium.md)
 {% endcontent-ref %}
 
+{% content-ref url="premium-faq.md" %}
+[premium-faq.md](premium-faq.md)
+{% endcontent-ref %}
+
 {% content-ref url="buying-premium.md" %}
 [buying-premium.md](buying-premium.md)
 {% endcontent-ref %}
+
+### Other ways to support Leg
+
+If you can't be bothered to pay money for a Discord bot, there are other ways you can support Leg.
+
+* Report any issues you find in Leg to our Support Server\
+  (This helps us find and fix problems for everyone faster.)
+* Suggest new features/functionality for Leg\
+  (This gives us more ideas on what we can add to Leg in updates)
+* Do Karuta Lookups on your drops\
+  (This gives Leg more data to work with!)
+* Use [Spreadsheet Utility](../../karuta-utilities/card-collection-utilities/spreadsheet-utility.md)\
+  (This contributes your cards to Card Finder, making Leg's database even more powerful!)
