@@ -20,7 +20,7 @@ To unauthorize Leg and delete your dye data, do "leg dyeunauth".
 {% hint style="warning" %}
 This feature is not provided by Karuta. Leg simply visits your dye page and looks through the dyes you own, only if you allow it to. \
 \
-For privacy reasons (and to make Karuta safer), Leg never obtains your dye data without your consent.
+For privacy reasons (and to respect Karuta privacy settings), Leg cannot and **never will** obtain your dye data without your consent. Even if you have provided authorization, you still need to run dyeupdate manually to make sure Leg's dye database is up-to-date.
 {% endhint %}
 
 {% hint style="success" %}

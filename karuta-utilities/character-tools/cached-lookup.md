@@ -12,6 +12,8 @@ Aliases: "lu", "klu", "search", "find"
 
 Cached Lookup allows you to bypass Karuta and search a character directly within Leg's database.
 
+![](<../../.gitbook/assets/image (34).png>)
+
 Cached Lookup provides you roughly the same functionalities as a normal Karuta lookup, with some exceptions:
 
 #### Missing Functionality
