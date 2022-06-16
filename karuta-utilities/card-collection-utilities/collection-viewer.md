@@ -6,7 +6,7 @@ description: View cards in your Collection easily!
 
 Collection Viewer gives you a more in-depth view of your card collection than Karuta offers. Offering a myriad of features such as estimated pricing, card code notes, wishlist numbers (even when you're not sorting by wishlist), a tile view and more!
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 {% hint style="info" %}
 Command: "leg collectionviewer"
