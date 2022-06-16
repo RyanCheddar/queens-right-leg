@@ -21,7 +21,9 @@ Sakura Wars TV · **Sakura Shinguji** \[sakura]
 
 Leg's own mascot also has a custom UUID.
 
-Queen's Right Leg · **Leg** \[leg]
+Queen's Right Leg · **Leg** \[leg]\
+\
+If you see these UUIDs appear in command examples, do not mistake them for just simply character name searches.
 {% endhint %}
 
 To find a character's UUID, look them up using "leg lu \[Character Name] / \[Character Series]"&#x20;
