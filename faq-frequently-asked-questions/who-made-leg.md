@@ -13,3 +13,7 @@
 * Assets for Frame Tester
 * Moral support
 * Childe simp
+
+{% hint style="info" %}
+Questions directly about Leg's programming (such as bug reports, errors and etc.) should be directed to Ryan instead.
+{% endhint %}
