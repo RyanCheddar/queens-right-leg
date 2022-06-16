@@ -37,6 +37,7 @@
 * [User Utilities](karuta-utilities/user-utilities/README.md)
   * [Vote Calculator](karuta-utilities/user-utilities/vote-calculator.md)
   * [Daily Reward Solver](karuta-utilities/user-utilities/daily-reward-solver.md)
+  * [Embed Extractor](karuta-utilities/user-utilities/embed-extractor.md)
 * [Card Collection Utilities](karuta-utilities/card-collection-utilities/README.md)
   * [Collection Viewer](karuta-utilities/card-collection-utilities/collection-viewer.md)
   * [Bulk Pricer](karuta-utilities/card-collection-utilities/bulk-pricer.md)
