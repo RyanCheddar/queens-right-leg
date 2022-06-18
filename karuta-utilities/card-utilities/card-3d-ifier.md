@@ -19,7 +19,7 @@ Card 3D-ifier requires you to [reply](https://app.gitbook.com/s/0OfyDder0TDbYepM
 {% endhint %}
 
 {% hint style="info" %}
-A list of supported character editions is available [\[here\]](https://docs.google.com/spreadsheets/d/1Ti9kA3ULfBhgNFWrHYgwdTB9fuJtknlxkhGW4oaId4w/edit?usp=sharing)
+A list of supported character editions is available [\[here\]](https://docs.google.com/spreadsheets/d/e/2PACX-1vQlPR8oAmONSUd\_rOXn-cB8nwNuy1W6ueX-lxXMJ1DYl2KGHGUFDFRx4lWNP2y82EeMvzPE7XyjiuWJ/pubhtml?gid=0\&single=true)
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (19).png>)
