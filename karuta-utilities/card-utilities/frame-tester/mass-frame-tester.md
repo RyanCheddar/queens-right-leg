@@ -27,5 +27,5 @@ Some frames might look broken, ugly or have incorrect text colors. This is becau
 \
 You can check whether a frame is optimized by looking at the Print and Card code spots. If the text "Queen's" and "Right Leg" are there, it's an optimized frame. ​ \
 \
-If not, it's auto-generated.
+If not, it's auto-generated and will likely have discrepancies with how the frame looks in Karuta.
 {% endhint %}

@@ -23,6 +23,6 @@ You can check whether a frame is optimized by looking at the Print and Card code
 
 
 
-If not, it's auto-generated.
+If not, it's auto-generated and will likely have discrepancies with how the frame looks in Karuta.
 {% endhint %}
 
