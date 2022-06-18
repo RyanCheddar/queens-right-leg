@@ -6,7 +6,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 
 * Lowered global cooldown (7s > 4s)
 * Improved speeds in some commands (Such as Collection Viewer, Worker Viewer and etc.)
-* More [Reminder](../../useful-utilities/reminders.md) slots (5 > 25)
+* More [Reminder](../../useful-utilities/reminders.md) slots (5 > 50)
 
 ### Karuta-related Perks
 

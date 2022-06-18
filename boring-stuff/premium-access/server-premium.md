@@ -6,7 +6,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 
 * [Personal Premium](personal-premium.md) for all server members\
   (As long as they're using Leg in your server)
-* \+3 Ephemeral Reminder Slots for server members\
+* \+5 Ephemeral Reminder Slots for server members\
   (Ephemeral Reminder Slots can only be used in Date Solver, but they bypass the normal per-user Reminder slot limit, even if a user doesn't have Personal Premium.)
 
 ### Karuta-related Perks
@@ -14,8 +14,10 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Higher drop quota before [Massdrop Mode](../../karuta-utilities/drop-analysis/massdrop-mode.md) automatically enables (25 drops/3 minutes/channel > 50 drops)
 * Automatic Drop Reanalysis for all drops
 * No "\[FREE ANALYSIS]" message for drop analysis
-* [Wishlist Notifications](../../admin-management/drop-notifications/wishlist-notifications.md) (Ping roles when a drop has a character over x wishlist!)
-* Increased [Dropboard](../../admin-management/dropboards.md) Limit (1 Dropboard > 10!)
+* [Wishlist Notifications](../../admin-management/drop-notifications/wishlist-notifications.md) (Ping roles when a drop has a character over x wishlist!) (Max 30)
+* Increased [Dropboard](../../admin-management/dropboards.md) Limit (1 Dropboard > 15)
+* Increased [Server Drop Notifications](../../admin-management/drop-notifications/server-drop-notifications.md) Limit (1 Role > 30)
+* Increased [Special Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications.md) Limit (1 Role > 30)
 * Role Pinging in [Dropboards](../../admin-management/dropboards.md)
 
 ### Price of Server Premium: $5 / 500 💎 a month
