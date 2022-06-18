@@ -4,7 +4,7 @@ description: Drop Analysis for Your Drops
 
 # drop\_analysis
 
-![Example Drop Analysis message](<../../../.gitbook/assets/image (30).png>)
+![Example Drop Analysis message](<../../../.gitbook/assets/image (30) (1).png>)
 
 This controls whether Drop Analysis is done for drops made by you. This overrides any server settings.
 

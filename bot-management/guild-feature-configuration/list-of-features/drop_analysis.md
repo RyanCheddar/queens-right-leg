@@ -4,7 +4,7 @@ description: Automatic Drop Analysis
 
 # drop\_analysis
 
-![Example Drop Analysis message](<../../../.gitbook/assets/image (30).png>)
+![Example Drop Analysis message](<../../../.gitbook/assets/image (30) (1).png>)
 
 This controls whether Drop Analysis is done for drops in your server.
 

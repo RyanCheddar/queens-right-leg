@@ -61,3 +61,4 @@ This list may potentially be incomplete.
 | leg dropboardadd           | Create Dropboard                                     | :point\_up:                                                                                           |
 | leg dropboardedit          | Edit/Remove Dropboard                                | :point\_up:                                                                                           |
 | leg forgetme               | Delete User Data from Leg                            | [Privacy Policy](privacy-policy.md)                                                                   |
+| leg jobboard               | Job Board Extended View                              | [Job Board Extended View](../karuta-utilities/user-utilities/job-board-extended-view.md)              |
