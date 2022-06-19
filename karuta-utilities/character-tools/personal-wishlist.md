@@ -25,3 +25,7 @@ To remove a character, do "leg wishlistremove \[Character UUID]"
 {% hint style="info" %}
 Don't know what a Character UUID is? Head here: [What's a Character UUID?](../../faq-frequently-asked-questions/whats-a-character-uuid.md)
 {% endhint %}
+
+{% hint style="info" %}
+You can be notified when a character on any of your Personal Wishlists appears on the [Leg Marketplace](../../karuta-services/leg-marketplace.md) by enabling marketplace\_notif in your [User Feature Configuration (leg userconfig)](../../bot-management/user-feature-configuration/)
+{% endhint %}
