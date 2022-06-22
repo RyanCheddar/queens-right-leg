@@ -9,7 +9,7 @@ Mass Frame Tester allows you to see how a bunch of frames look on a specific cha
 {% hint style="info" %}
 Command: "leg massframetester [\[Character UUID\]](../../../faq-frequently-asked-questions/whats-a-character-uuid.md) \[Frame Name]"
 
-Aliases: "massframetest", "bulkframetester", "bulkframetest"\
+Aliases: "massframetest", "bulkframetester", "bulkframetest", "multiframetester", "multiframetest"\
 
 
 You can skip typing in a Character UUID by [reply](../../../faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md)ing to a character's lookup page, in either Karuta or Leg.
