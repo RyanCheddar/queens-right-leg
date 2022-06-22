@@ -11,6 +11,7 @@ Normal Drop Mode:
 * Lets you see the full result of Leg's analysis
 * Tells you when a card **possibly** has a good print number
 * Attempts to guess a cards wishlist number when the analysis potentially got the card's name/series wrong
+* Shows when a drop will expire/has expired
 * Reanalyses the drop for better results when there's potential incorrect data in the analysis \[Premium Only]
 
 However, Normal Drop Mode also comes with certain drawbacks:
