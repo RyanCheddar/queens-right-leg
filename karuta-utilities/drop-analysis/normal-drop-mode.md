@@ -12,6 +12,7 @@ Normal Drop Mode:
 * Tells you when a card **possibly** has a good print number
 * Attempts to guess a cards wishlist number when the analysis potentially got the card's name/series wrong
 * Shows when a drop will expire/has expired
+* Allows you to look up the cards in a drop all at once by replying with [Cached Lookup](../character-tools/cached-lookup.md)
 * Reanalyses the drop for better results when there's potential incorrect data in the analysis \[Premium Only]
 
 However, Normal Drop Mode also comes with certain drawbacks:
