@@ -8,6 +8,9 @@ description: Look through Leg's database of cards instead of Karuta's
 Command: "leg lookup"
 
 Aliases: "lu", "klu", "search", "find"
+
+\
+You can also reply to a Drop Analysis message to look up the dropped characters. (Does not work in Massdrop Mode)
 {% endhint %}
 
 Cached Lookup allows you to bypass Karuta and search a character directly within Leg's database.
