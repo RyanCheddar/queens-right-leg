@@ -9,7 +9,10 @@ With Spreadsheet Utility, you are able to use Collection Utilities such as Colle
 Not only that, when using Spreadsheet Utility, you can have your ENTIRE Card Collection in any Leg utility at once!
 
 {% hint style="info" %}
-Spreadsheet Utility can be run by doing "ksheet" or equivalent in Karuta. Importing takes a while, but you can immediately start using Card Collection Utilities that work with Spreadsheet Utility.
+Spreadsheet Utility can be run by doing "ksheet" or equivalent in Karuta. Importing takes a while, but you can immediately start using Card Collection Utilities that work with Spreadsheet Utility.\
+
+
+If you want Spreadsheet Utility to stop appearing when you do "ksheet", you can disable it with ["leg userconfig spreadsheet\_utility false"](../../bot-management/user-feature-configuration/list-of-user-configurable-features/spreadsheet\_utility.md)
 {% endhint %}
 
 {% hint style="warning" %}
