@@ -10,8 +10,8 @@ This controls whether Leg will summon the Date Solver when you start a date with
 
 For more information about the Date Solver, click here:
 
-{% content-ref url="../../../karuta-utilities/date-solver-beta.md" %}
-[date-solver-beta.md](../../../karuta-utilities/date-solver-beta.md)
+{% content-ref url="../../../karuta-utilities/date-solver.md" %}
+[date-solver.md](../../../karuta-utilities/date-solver.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

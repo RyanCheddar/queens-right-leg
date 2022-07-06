@@ -56,7 +56,7 @@
     * [Single Frame Tester](karuta-utilities/card-utilities/frame-tester/single-frame-tester.md)
     * [Mass Frame Tester](karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)
   * [Card 3D-ifier](karuta-utilities/card-utilities/card-3d-ifier.md)
-* [Date Solver (Beta)](karuta-utilities/date-solver-beta.md)
+* [Date Solver (Beta)](karuta-utilities/date-solver.md)
 
 ## Karuta Services
 

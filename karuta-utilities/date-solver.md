@@ -2,7 +2,7 @@
 description: Find paths that let you finish your date easily!
 ---
 
-# Date Solver
+# Date Solver (Beta)
 
 {% hint style="info" %}
 Date Solver is still in Beta. You can disable/enable it with:\

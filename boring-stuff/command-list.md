@@ -38,7 +38,7 @@ This list may potentially be incomplete.
 | leg frametester            | Single Frame Tester                                  | [Single Frame Tester](../karuta-utilities/card-utilities/frame-tester/single-frame-tester.md)         |
 | leg massframetester        | Mass Frame Tester                                    | [Mass Frame Tester](../karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)             |
 | leg 3d                     | Card 3D-ifier                                        | [Card 3D-ifier](../karuta-utilities/card-utilities/card-3d-ifier.md)                                  |
-| leg resetdatesolver        | Date Solver Resetter (DEBUG ONLY)                    | [Date Solver](../karuta-utilities/date-solver-beta.md)                                                |
+| leg resetdatesolver        | Date Solver Resetter (DEBUG ONLY)                    | [Date Solver](../karuta-utilities/date-solver.md)                                                     |
 | leg marketplace            | Marketplace Menu                                     | [Leg Marketplace](../karuta-services/leg-marketplace.md)                                              |
 | leg viewauction            | Marketplace Auction Shortcut                         | :point\_up:                                                                                           |
 | leg help                   | Help Command                                         | [Help](../bot-management/help.md)                                                                     |
