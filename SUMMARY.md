@@ -109,4 +109,4 @@
 * [How do I use Reply-based Commands?](faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md)
 * [Leg isn't analysing my drops!](faq-frequently-asked-questions/leg-isnt-analysing-my-drops.md)
 * [Leg isn't responding to me at all!](faq-frequently-asked-questions/leg-isnt-responding-to-me-at-all.md)
-* [Why is a card showing as \[LOCKED\] in Card Finder?](faq-frequently-asked-questions/why-is-a-card-showing-as-locked-in-card-finder.md)
+* [The card code for a card isn't showing!](faq-frequently-asked-questions/the-card-code-for-a-card-isnt-showing.md)
