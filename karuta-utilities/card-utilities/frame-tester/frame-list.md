@@ -12,7 +12,7 @@ Command: "leg framelist"
 Alias: "frames"
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (31) (1).png>)
 
 {% hint style="info" %}
 Some frames might look broken, ugly or have incorrect text colors. This is because these frames have not been optimized for frame testing use.
