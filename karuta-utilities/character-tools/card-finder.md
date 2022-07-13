@@ -53,7 +53,7 @@ Card Finder is designed to always only show cards for a character, instead of ca
 Card Finder also launched with a card hiding functionality, for the few cards that you don't want people to bother you about, or the cards with special value to you.
 
 {% hint style="warning" %}
-To protect players and prevent low print card sniping, Leg locks access to the card code of cards that dropped less than 30 minutes ago.\
+To protect players and prevent low print card sniping, Leg locks access to the card code & owner of cards that dropped less than 30 minutes ago.\
 \
 For users with Personal Premium, this restriction is 10 minutes instead.
 {% endhint %}
