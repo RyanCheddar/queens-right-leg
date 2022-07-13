@@ -1,14 +1,14 @@
-# The card code for a card isn't showing!
+# The card code for a card isn't showing! \[Card Finder]
 
 For some cards, the card code may be unavailable for different reasons.
 
-### 🔥 "BURNT" - Card likely doesn't/no longer exists
+### 🔥 "BURNT" - Card likely doesn't exist / no longer exists
 
 ![](<../.gitbook/assets/image (37).png>)
 
 For cards marked as "BURNT", it was either not grabbed when it was dropped, or it was burnt.
 
-Leg uses multiple criterias to determine whether a card was burnt, and these criterias are generally pretty accurate. However, Leg could still occasionally make errors and mark a card as \[BURNT] even though it still exists. For these cards, they'll be unmarked permanently if Leg sees them in circulation, and will remain so unless the card was actually burnt.
+Leg uses multiple criterias to determine whether a card was burnt, and these criterias are generally very accurate. However, Leg could still occasionally make errors and mark a card as \[BURNT] even though it still exists. For these cards, they'll be unmarked permanently if Leg sees them in circulation, and will remain so unless the card was actually burnt.
 
 ### 🫥 "HIDDEN" - Card was hidden by the card owner
 
