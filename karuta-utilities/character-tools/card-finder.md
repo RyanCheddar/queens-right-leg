@@ -4,16 +4,19 @@ description: Locate a low/mid-print card with ease!
 
 # Card Finder
 
-Card Finder allows you to locate cards at or lower than 1000 print. Leg does this by scanning cards when they are displayed in a Karuta menu/interface.
+Card Finder allows you to locate cards for specific characters and find their card codes, owners and more. Leg does this by scanning cards when they are displayed in a Karuta menu/interface.
 
 {% hint style="info" %}
 Command: "leg cardfinder [\[Character UUID\]](../../faq-frequently-asked-questions/whats-a-character-uuid.md) \<Edition (Optional)> \<p\[>/\</=]\[Print Number] (Optional)>"
 
 Aliases: "cf", "printfinder", "cardfind", "trace", "cardtrace"
 
+\
+By default, Card Finder only finds cards with a print number lower than 1000.
 
 
-Using Print Number filtering also allows you to access card codes for cards with print numbers larger than 1000 (up to 20000).
+
+Using Print Number filtering enables you to access card codes for cards with print numbers larger than 1000 (up to 35000).
 
 \
 Filtering by Print Number (and by extension, accessing cards with higher print than 1000) is a [Premium](../../boring-stuff/premium-access/)-only feature.
