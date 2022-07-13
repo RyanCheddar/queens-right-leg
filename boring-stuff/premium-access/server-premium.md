@@ -29,8 +29,8 @@ Payment with :tickets: tickets is possible, but price will be dependent on marke
 {% hint style="info" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) might not be given to your members when you buy Server Premium.
 
-Some features that are affected by this include:
+Perk that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
-* Decreased card lock time limit in Card Finder
+* Ability to see cards dropped less than 30 minutes ago (but more than 10 minutes ago) in Card Finder
 {% endhint %}
