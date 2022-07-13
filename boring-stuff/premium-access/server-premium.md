@@ -24,7 +24,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 
 Extra 30 days when buying 180 days at once using USD!
 
-Payment with 🎟 tickets is allowed, but price will be dependent on market price.
+Payment with :tickets: tickets is possible, but price will be dependent on market price.
 
 {% hint style="info" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) might not be given to your members when you buy Server Premium.
@@ -32,4 +32,5 @@ Some perks of Personal Premium that apply everywhere (i.e. not just in your serv
 Some features that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
+* Decreased card lock time limit in Card Finder
 {% endhint %}
