@@ -32,5 +32,5 @@ Some perks of Personal Premium that apply everywhere (i.e. not just in your serv
 Some features that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
-* Ability to see cards dropped less than 30 minutes ago (but more than 10 minutes ago) in Card Finder
+* Decreased card lock time limit in Card Finder
 {% endhint %}
