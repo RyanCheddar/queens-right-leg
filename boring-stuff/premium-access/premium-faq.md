@@ -36,6 +36,6 @@ This system makes it so you don't need to mess with IDs on Tebex when checking o
 
 ### Can I get a refund?
 
-If you are buying thorugh Tebex, refunds are unfortunately not providable as stated in the [Terms of Service](../leg-terms-of-service.md).
+If you are buying thorugh Tebex, refer to the [Terms of Service](../leg-terms-of-service.md).
 
 If you are buying using Karuta currencies, you can request for a refund within 24 hours after purchase. These requeests should be sent through the [Support Server](https://discord.gg/SRWDAk7VnN).
