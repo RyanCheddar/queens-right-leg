@@ -10,7 +10,7 @@
 
 #### Premium Access ToS
 
-1. Refunds will only be honored if Premium access has not been redeemed, or if you did not receive Premium access in your account. Otherwise, a refund is not possible.
+1. If purchasing through Tebex, refunds will only be honored if Premium access has not been redeemed, or if you did not receive Premium access in your account. Otherwise, a refund is not possible.
 2. Chargebacks are absolutely not allowed and will be handled and disputed by Tebex.
 3. Premium access is absolutely non-transferrable between servers/users.
 4. Price adjustments might happen without prior notice, and a refund may not be given to preexisting Premium users.
