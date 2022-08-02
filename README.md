@@ -13,5 +13,5 @@ In the documentation, the bot "Queen's Right Leg" will be referred to as Leg wit
 ![](<.gitbook/assets/image (10).png>)
 
 {% hint style="warning" %}
-Queen' Right Leg is not affiliated with Karuta.
+Queen's Right Leg is not affiliated with Karuta.
 {% endhint %}
