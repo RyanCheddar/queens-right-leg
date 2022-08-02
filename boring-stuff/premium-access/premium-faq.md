@@ -33,3 +33,9 @@ Tokens represent the money you used to buy Premium Access on Tebex. A month of P
 This does also allow for, while not recommended, buying 2 months of Personal Premium but redeeming them as 1 month of Server Premium.
 
 This system makes it so you don't need to mess with IDs on Tebex when checking out, functions as chargeback protection and allows you to change the type of Premium Access you're redeeming last second.
+
+### Can I get a refund?
+
+If you are buying thorugh Tebex, refer to the [Terms of Service](../leg-terms-of-service.md).
+
+If you are buying using Karuta currencies, you can request for a refund within 24 hours after purchase. These requeests should be sent through the [Support Server](https://discord.gg/SRWDAk7VnN).

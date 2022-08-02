@@ -14,8 +14,9 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Higher drop quota before [Massdrop Mode](../../karuta-utilities/drop-analysis/massdrop-mode.md) automatically enables (25 drops/3 minutes/channel > 50 drops)
 * Automatic Drop Reanalysis for all drops
 * No "\[FREE ANALYSIS]" message for drop analysis
-* [Wishlist Notifications](../../admin-management/drop-notifications/wishlist-notifications.md) (Ping roles when a drop has a character over x wishlist!) (Max 30)
+* [Wishlist Count Notifications](../../admin-management/drop-notifications/wishlist-count-notifications.md) (Ping roles when a drop has a character over x wishlist!) (Max 30)
 * Increased [Dropboard](../../admin-management/dropboards.md) Limit (1 Dropboard > 15)
+* Increased [Wishlist Drop Notifications](../../admin-management/drop-notifications/wishlist-drop-notifications.md) Limit (1 Role > 30)
 * Increased [Server Drop Notifications](../../admin-management/drop-notifications/server-drop-notifications.md) Limit (1 Role > 30)
 * Increased [Special Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications.md) Limit (1 Role > 30)
 * Role Pinging in [Dropboards](../../admin-management/dropboards.md)
@@ -29,8 +30,8 @@ Payment with :tickets: tickets is possible, but price will be dependent on marke
 {% hint style="info" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) might not be given to your members when you buy Server Premium.
 
-Some features that are affected by this include:
+Perk that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
-* Decreased card lock time limit in Card Finder
+* Ability to see cards dropped less than 30 minutes ago (but more than 10 minutes ago) in Card Finder
 {% endhint %}

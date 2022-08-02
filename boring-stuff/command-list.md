@@ -48,7 +48,7 @@ This list may potentially be incomplete.
 | leg prefix                 | View Prefix Configuration                            | [Prefix Stuff](../admin-management/prefix-stuff/)                                                     |
 | leg setprefix              | Set Leg Prefix                                       | [Set Leg Prefix](../admin-management/prefix-stuff/set-leg-prefix.md)                                  |
 | leg karutaprefix           | Set Karuta Prefix                                    | [Set Karuta Prefix](../admin-management/prefix-stuff/set-karuta-prefix.md)                            |
-| leg wishlistnotif          | Wishlist Notification List                           | [Wishlist Notifications](../admin-management/drop-notifications/wishlist-notifications.md)            |
+| leg wishlistnotif          | Wishlist Notification List                           | [Wishlist Notifications](../admin-management/drop-notifications/wishlist-count-notifications.md)      |
 | leg wishlistnotifadd       | Add Wishlist Notification Role                       | :point\_up:                                                                                           |
 | leg wishlistnotifremove    | Remove Wishlist Notification Role                    | ​​ :point\_up:                                                                                        |
 | leg serverdropnotif        | Server Drop Notification List                        | [Server Drop Notifications](../admin-management/drop-notifications/server-drop-notifications.md)      |
