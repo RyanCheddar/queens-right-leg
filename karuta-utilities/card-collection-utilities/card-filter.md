@@ -21,6 +21,7 @@ Currently, the following Card Collection Utilities support Card Filters:
 * Character (e.g. `c:luke`,`c=raiden_shogun`)
 * Series Name (e.g. `s:tears_of_themis`,`s=genshin`)
 * Card Code (e.g. `#:3bfxgn`)
+* Card Alias Status (e.g. `a:true`,`a=yes`)
 
 The following filters may only be available in certain utilities:
 
