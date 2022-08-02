@@ -39,7 +39,7 @@ Some functionality work differently when you're using a Card Collection Utility 
 
 * Current Base Value is shown instead of Mint Base Value \[Worker Viewer]
 * Estimated Pricing accounts for cosmetics and other aspects of a card as well \[Collection Viewer, Bulk Pricer]
-* Cards' tags are visible and filterable \[Collection Viewer, Bulk Pricer]
+* Cards' tags are visible and filterable \[All Utilities]
 * Accurate injury timers are available for injured cards \[Worker Viewer]
 * Tile View is not available \[Collection Viewer]
 * Sorting is enabled by default and cannot be disabled \[Bulk Pricer]
