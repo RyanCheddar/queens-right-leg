@@ -4,7 +4,7 @@ description: Automatic Bit Caching
 
 # bit\_cache
 
-![Example of a feature that relies on bit caching.](../../../.gitbook/assets/image.png)
+![Example of a feature that relies on bit caching.](<../../../.gitbook/assets/image (5).png>)
 
 This controls whether Leg will remember what bits you have on you.
 

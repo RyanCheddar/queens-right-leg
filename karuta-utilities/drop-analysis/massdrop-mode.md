@@ -7,7 +7,7 @@ description: The speedy and silent mode of Drop Analysis
 In comparison to Normal Drop Mode, Massdrop Mode is way faster, stays silent when a card drop isn't special and stays out of players' way.
 
 ![Massdrop Mode sending a message to notify about a high wishlist card (Yae Miko)
-If the drop had no high wishlist characters, Leg stays silent.](<../../.gitbook/assets/image (5).png>)
+If the drop had no high wishlist characters, Leg stays silent.](<../../.gitbook/assets/image (5) (1).png>)
 
 Massdrop Mode:
 
