@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [What is Leg? Who is Leg?](what-is-leg-who-is-leg.md)
 
 ## Boring Stuff
 
