@@ -12,7 +12,7 @@ Hey! As a heads up, there is now a 7-day Personal Premium trial available in the
 
 Buying with USD directly supports the development of Leg.&#x20;
 
-To purchase with USD, head here:
+To purchase with USD, head to the Tebex store here:
 
 {% embed url="https://queens-right-leg.tebex.io/category/2067003" %}
 
