@@ -42,3 +42,5 @@ If you can't be bothered to pay money for a Discord bot, there are other ways yo
   (This gives Leg more data to work with!)
 * Use [Spreadsheet Utility](../../karuta-utilities/card-collection-utilities/spreadsheet-utility.md)\
   (This contributes your cards to Card Finder, making Leg's database even more powerful!)
+* Simply talk about your experience with using Leg!\
+  (This gives us valuable feedback on what the bot is being used for, and how we can improve the bot for those usecases)
