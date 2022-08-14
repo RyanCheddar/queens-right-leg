@@ -6,11 +6,15 @@ description: Leg's too enthusiastic sometimes.
 
 If a feature in Leg is annoying you a lot, there is a high likelihood that you can disable that feature.
 
+##
+
 If you are the server's moderator/admin/owner, you can toggle features using the "leg featureset" command.
 
 {% content-ref url="../bot-management/guild-feature-configuration/" %}
 [guild-feature-configuration](../bot-management/guild-feature-configuration/)
 {% endcontent-ref %}
+
+##
 
 You can also toggle features for yourself only using the "leg userconfig" command.
 
