@@ -20,7 +20,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Increased [Server Drop Notifications](../../admin-management/drop-notifications/server-drop-notifications.md) Limit (1 Role > 30)
 * Increased [Special Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications.md) Limit (1 Role > 30)
 * Role Pinging in [Dropboards](../../admin-management/dropboards.md)
-* Ability to see cards dropped less than 30 minutes ago, but more than 10 minutes ago ([Card Finder](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/mD86N3jg3ajgpkYiHwBT/karuta-utilities/character-tools/card-finder))
+* Ability to see cards dropped less than 30 minutes ago, but more than 20 minutes ago ([Card Finder](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/mD86N3jg3ajgpkYiHwBT/karuta-utilities/character-tools/card-finder))
 
 ### Price of Server Premium: $5 / 500 💎 a month
 

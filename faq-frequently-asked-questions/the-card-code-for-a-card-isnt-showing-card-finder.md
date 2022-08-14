@@ -24,6 +24,6 @@ This can be for a myriad of reasons, and while you can try to look for the card 
 
 For cards marked as "LOCKED", the card dropped too recently and is temporarily unavailable to avoid low-print sniping.
 
-The restriction applies to cards dropped less than 30 minutes ago. For users with Personal Premium, the restriction is 10 instead.
+The restriction applies to cards dropped less than 30 minutes ago. For users with Personal Premium, the restriction is 10 instead. For members in servers with Server Premium, the restriction is 20 instead.
 
 If you believe the card has already existed for a while, you can try running "kci" on a card with the same edition and a higher print number, which may help with unlocking the card.
