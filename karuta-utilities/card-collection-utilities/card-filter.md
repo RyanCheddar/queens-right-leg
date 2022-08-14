@@ -27,3 +27,4 @@ The following filters may only be available in certain utilities:
 * Tag (e.g. `t!burn`,`t:cool`) \[[Spreadsheet Utility](spreadsheet-utility.md) only]
 * Price (e.g. `$>3`,`$=0`) \[[Collection Viewer](collection-viewer.md) & [Bulk Pricer](bulk-pricer.md) only]
 * Card Alias Status (e.g. `a:true`,`a=yes`) \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
+* Card Injury Status (e.g. `i:true`, `i=no`) \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
