@@ -20,7 +20,7 @@ Currently, the following Card Collection Utilities support Card Filters:
 * Quality (e.g. `q:4`,`q<1`)
 * Character (e.g. `c:luke`,`c=raiden_shogun`)
 * Series Name (e.g. `s:tears_of_themis`,`s=genshin`)
-* Card Code (e.g. `#:3bfxgn`)
+* Card Code (e.g. `#:3bfxgn`, `#=vhvldt`)
 
 The following filters may only be available in certain utilities:
 
