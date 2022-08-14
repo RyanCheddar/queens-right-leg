@@ -14,13 +14,17 @@ Currently, the following Card Collection Utilities support Card Filters:
 
 ## Supported Filters
 
+{% hint style="info" %}
+Some of these filters do not exist in Karuta and are only available in Leg!
+{% endhint %}
+
 * Wishlist (e.g. `w<10`,`w>1000`)
 * Print Number (e.g. `p<1000`,`p=1`)
 * Edition (e.g. `e=3`, `e:2`)
 * Quality (e.g. `q:4`,`q<1`)
 * Character (e.g. `c:luke`,`c=raiden_shogun`)
 * Series Name (e.g. `s:tears_of_themis`,`s=genshin`)
-* Card Code (e.g. `#:3bfxgn`, `#=vhvldt`)
+* Card Code (e.g. `#:3bfxgn`, `#!vhvldt`)
 
 The following filters may only be available in certain utilities:
 
