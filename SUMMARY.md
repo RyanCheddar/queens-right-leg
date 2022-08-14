@@ -113,3 +113,4 @@
 * [Leg isn't analysing my drops!](faq-frequently-asked-questions/leg-isnt-analysing-my-drops.md)
 * [Leg isn't responding to me at all!](faq-frequently-asked-questions/leg-isnt-responding-to-me-at-all.md)
 * [The card code for a card isn't showing! \[Card Finder\]](faq-frequently-asked-questions/the-card-code-for-a-card-isnt-showing-card-finder.md)
+* [A Leg feature is really annoying me!](faq-frequently-asked-questions/a-leg-feature-is-really-annoying-me.md)
