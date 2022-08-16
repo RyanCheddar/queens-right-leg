@@ -4,14 +4,17 @@ description: How Leg processes your information.
 
 # Privacy Policy
 
+Leg takes great care in handling player privacy transparently, as you deserve to know about how your information is being processed.
+
+Here are quick rundowns of what information Leg processes and stores, and other things that you might want to know.
+
 #### The following information are collected anonymously and are not linked to any users, Karuta cards or server:
 
 * Karuta character data\
   (Name, Series, Wishlist, Aliases, Image URL, Drop statistics etc.)
 * Karuta frames\
   (Name, Image URL, Price)
-* Drop Analytics\
-  (To power features such as "leg droptrend")\
+* Drop Analytics (No. of drops globally, no. of wishlist cards dropped etc.)\
   (Can be opted-out of by disabling Drop Analysis in "leg featureset")
 * Anonymous error logs\
   (Only contains information about which part of Leg is malfunctioning)
@@ -23,10 +26,10 @@ description: How Leg processes your information.
 * Aliases found from any Karuta Koibito Dating Menus\
   (Linked to the card you use to visit)\
   (Collected automatically, data deleted once you open the visiting card's Card Info menu with "kci")\
-  (Disabled when you turn off _Enable Leg Commands_ in "leg userconfig")
+  (Disabled when you turn off _Enable Leg Commands_ in "leg userconfig". This will render Leg unusable for you.)
 * Your last obtained card from Karuta\
   (Used by Leg to provide you automatic cached lookup when Karuta is on cooldown)\
-  (Can be disabled by turning off _Enable Leg Commands_ in "leg userconfig")
+  (Can be disabled by turning off _Enable Leg Commands_ in "leg userconfig". This will render Leg unusable for you.)
 * Your Leg Reminders\
   (Deletable by manually removing all entries using "leg reminders")
 * Personal Wishlist\
@@ -34,7 +37,7 @@ description: How Leg processes your information.
 * Premium access \[Personal]\
   (Your Premium access information is only viewable by you.)
 * Feature Configurations\
-  (For obvious reasons, this has to be linked to you.)
+  (For obvious reasons, this has to be linked to you/your server.)
 * Spreadsheet Utility Data\
   (Not accessible by anyone else, automatically deleted 3 days after importing.)
 
@@ -47,6 +50,8 @@ description: How Leg processes your information.
   (Personal Premium access information is not viewable by anyone other than you.)
 * Cards cached by Card Finder\
   (If you are the owner of the card, you can hide it using "leg hidecard \[Card code]")
+* Sketched cards cached by Card Finder (Displayed in Sketch Viewer)\
+  (Sketched cards cannot be hidden, but hiding a card in Card Finder will reduce the amount of information associated to the card.)
 
 ### Purchasing Premium access with Tebex (IRL Money)
 
