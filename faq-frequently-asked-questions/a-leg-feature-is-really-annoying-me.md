@@ -10,8 +10,8 @@ If a feature in Leg is annoying you a lot, there is a high likelihood that you c
 
 If you are the server's moderator/admin/owner, you can toggle features using the "leg featureset" command.
 
-{% content-ref url="../bot-management/guild-feature-configuration/" %}
-[guild-feature-configuration](../bot-management/guild-feature-configuration/)
+{% content-ref url="../bot-management/server-feature-configuration/" %}
+[server-feature-configuration](../bot-management/server-feature-configuration/)
 {% endcontent-ref %}
 
 ## User-only Configuration

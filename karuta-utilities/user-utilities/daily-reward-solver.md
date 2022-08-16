@@ -10,4 +10,4 @@ Daily Reward Solver gives you the answer, as well as further elaboration, about 
 
 The solver automatically appears when you do "kdaily".
 
-If you like to challenge yourself or find the solver too spammy, you can disable it [for yourself](../../bot-management/user-feature-configuration/list-of-user-configurable-features/daily\_solver.md) or [for a server/channel](../../bot-management/guild-feature-configuration/list-of-features/daily\_solver.md).
+If you like to challenge yourself or find the solver too spammy, you can disable it [for yourself](../../bot-management/user-feature-configuration/list-of-user-configurable-features/daily\_solver.md) or [for a server/channel](../../bot-management/server-feature-configuration/list-of-features/daily\_solver.md).

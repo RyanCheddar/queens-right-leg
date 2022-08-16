@@ -2,14 +2,14 @@
 description: Configure Leg's functionality in your server.
 ---
 
-# Guild Feature Configuration
+# Server Feature Configuration
 
 You can change the Leg features available in your server using this command:
 
 {% hint style="info" %}
 Command: "leg featureset"
 
-Aliases: "guildconfig", "guildfeatureset"
+Aliases: "serverconfig", "serverfeatureset", "guildconfig", "guildfeatureset"
 {% endhint %}
 
 ![Default feature settings](<../../.gitbook/assets/image (27).png>)

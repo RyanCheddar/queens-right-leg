@@ -12,6 +12,6 @@ Is Leg being fussy for no reason? If so, try the following troubleshooting steps
 * Check if the server you're in has locked Leg access to certain channels.&#x20;
 * Check if Leg has the necessary permissions needed for it to operate.\
   (Send Messages, Read Messages, Embed Links, Use External Emojis)
-* Check if the server has configured Leg properly. To do so, ask an admin to do "[leg featureset](../bot-management/guild-feature-configuration/)" and see if the settings are all white/red. If they are, press "Enable All" or set the settings back.
+* Check if the server has configured Leg properly. To do so, ask an admin to do "[leg featureset](../bot-management/server-feature-configuration/)" and see if the settings are all white/red. If they are, press "Enable All" or set the settings back.
 
 If Leg still doesn't work, join the Support Server and @RyanC#5785
