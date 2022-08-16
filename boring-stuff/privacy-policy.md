@@ -55,13 +55,25 @@ Here are quick rundowns of what information Leg processes and stores, and other 
 
 ### Purchasing Premium access with Tebex (IRL Money)
 
-By purchasing Premium access with Tebex, @RyanC#5785 will receive your Discord username (and ID), and possibly your email as well.
+By purchasing Premium access with Tebex, @RyanC#5785 will receive the following sensitive information:
+
+* Payment Method used
+* Amount of money transacted
+* Premium packages you have purchased
+* Your full name
+* Your Discord username
+* Your email address (not shared if you do not tick the checkbox during checkout)
+* Your IP address at the time of purchase
+
+{% hint style="warning" %}
+All information listed above cannot be deleted, because Tebex does not offer the tools to do so.
+{% endhint %}
 
 {% hint style="info" %}
 Payments are handled via Tebex. You can check out their Privacy Policy [here](https://www.tebex.io/legal/privacy)
 {% endhint %}
 
-Information regarding your purchase may be retained (Logs about who you are, when the purchase took place, what server you redeemed to etc.) in case of chargebacks, refunds and etc.
+Other information regarding your purchase (that are not provided by Tebex) may be retained (Logs about who you are, when the purchase took place, what server you redeemed to etc.) in case of chargebacks, refunds and etc. This information can be requested for deletion after 180 days.
 
 ### Data Deletion
 
@@ -94,12 +106,16 @@ The following information might be retained:
 * Personal Wishlist data from members
 * Feature Configurations
 
+After a period of not using Leg in your server (max. 180 days), all information associated to your server will be removed.
+
+You can also request immediate data removal by contacting @RyanC#5785 on Discord.
+
 {% hint style="info" %}
 Logs about your usage of Leg commands may be stored for debugging purposes.
 
 These logs contain the time you ran a command, your username and ID, the command you ran, any parameters in the command and etc.
 
-If your server uses a common syntax (e.g. "l"), non-command messages might also be included in the logs.
+Messages containing Leg's syntax but do not correspond to actual commands may also be stored. If your server uses a common syntax (e.g. "l"), this might happen more frequently.
 
-These logs are wiped during bot restarts, and are not accessed unless necessary.
+These logs are wiped during bot restarts, and are not accessed unless necessary. These logs cannot be accessed by anyone other than @RyanC#5785.
 {% endhint %}
