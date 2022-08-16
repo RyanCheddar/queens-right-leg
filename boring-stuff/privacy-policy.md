@@ -93,7 +93,7 @@ However, ForgetMe does not:
   (This is because these data are not linked to you.)
 * Delete Premium access information about you\
   (This information auto-deletes once your Premium access expires and you have no remaining tokens)
-* Delete information about low/mid print cards owned by you\
+* Delete information about cards owned by you in Card Finder\
   (You will need to use "leg hidecard \[Card Code]")
 
 #### Servers
