@@ -5,8 +5,8 @@
 3. Do not automate interactions with Leg.
 4. Any type of bots, including Discord Bots, are not allowed to scrape Leg's data\
    (For real, get your own)
-5. Monetizing access to Leg is not allowed.\
-   (e.g. Locking Leg behind a fee in your server. Giving access to Leg for Server Boosters or Server Supporters is allowed as long as it's not the only benefit.
+5. Directly monetizing access to Leg is not allowed.\
+   (a.k.a. Locking Leg behind a fee in your server. Giving access to Leg for Server Boosters or Server Supporters is allowed **as long as it's not the only benefit**.)
 
 #### Premium Access ToS
 
