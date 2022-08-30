@@ -18,17 +18,32 @@ Currently, the following Card Collection Utilities support Card Filters:
 Some of these filters do not exist in Karuta and are only available in Leg!
 {% endhint %}
 
-* Wishlist (e.g. `w<10`,`w>1000`)
-* Print Number (e.g. `p<1000`,`p=1`)
-* Edition (e.g. `e=3`, `e:2`)
-* Quality (e.g. `q:4`,`q<1`)
-* Character (e.g. `c:luke`,`c=raiden_shogun`)
-* Series Name (e.g. `s:tears_of_themis`,`s=genshin`)
-* Card Code (e.g. `#:3bfxgn`, `#!vhvldt`)
+* Wishlist _(w, wishlist, wishlists, wl)_\
+  (e.g. `w<10`,`w>1000`)
+* Print Number _(p, print, number)_\
+  (e.g. `p<1000`,`p=1`)
+* Edition _(e, ed, edition)_\
+  (e.g. `e=3`, `e:2`)
+* Quality _(q, quality)_\
+  (e.g. `q:4`,`q<1`)
+* Character _(c, character, name)_\
+  (e.g. `c:luke`,`c=raiden_shogun`)
+* Series Name _(s, series)_\
+  (e.g. `s:tears_of_themis`,`s=genshin`)
+* Card Code _(#, code)_\
+  (e.g. `#:3bfxgn`, `#!vhvldt`)
 
 The following filters may only be available in certain utilities:
 
-* Tag (e.g. `t!burn`,`t:cool`) \[[Spreadsheet Utility](spreadsheet-utility.md) only]
-* Price (e.g. `$>3`,`$=0`) \[[Collection Viewer](collection-viewer.md) & [Bulk Pricer](bulk-pricer.md) only]
-* Card Alias Status (e.g. `a:true`,`a=yes`) \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
-* Card Injury Status (e.g. `i:true`, `i=no`) \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
+* Tag _(t, tag)_\
+  (e.g. `t!burn`,`t:cool`)\
+  \[[Spreadsheet Utility](spreadsheet-utility.md) only]
+* Price _($, price)_\
+  (e.g. `$>3`,`$=0`)\
+  \[[Collection Viewer](collection-viewer.md) & [Bulk Pricer](bulk-pricer.md) only]
+* Card Alias Status _(a, alias, aliased)_\
+  (e.g. `a:true`,`a=yes`)\
+  \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
+* Card Injury Status _(i, injured, injury)_\
+  (e.g. `i:true`, `i=no`)\
+  \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
