@@ -54,3 +54,7 @@ The following filters may only be available in certain utilities:
 * **Effort** _(eff, effort)_\
   (e.g. `effort>300`, `eff<30`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
+* **Worker Base Value** _(bv, basevalue)_\
+  __(e.g. `bv>100`, `bv:0`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) or [Worker Viewer](worker-viewer.md)]\
+  (Note: This filters by _current_ base value in Spreadsheet Utility, and _mint_ base value in Worker Viewer.)
