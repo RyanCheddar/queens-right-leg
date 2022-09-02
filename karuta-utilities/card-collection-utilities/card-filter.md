@@ -54,6 +54,9 @@ The following filters may only be available in certain utilities:
 * **Effort** _(ef_, _eff, effort)_\
   (e.g. `effort>300`, `eff<30`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
+* **Max Possible Effort** (_maxEf_, _MaxEff_, _MaxEffort_)\
+  (e.g. `maxEf<100`, `maxEffort:1`)\
+  \[[Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/lOuYypnvc11Yr03fUtS4/karuta-utilities/card-collection-utilities/worker-viewer) in [Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only. Requires you to select _"Sorting by Mint Base Value"_ or _"Sorting by Max Possible Effort"_ at least once first.]
 * **Worker Base Value** _(bv, basevalue)_\
   __(e.g. `bv>100`, `bv:0`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) or [Worker Viewer](worker-viewer.md)]\
