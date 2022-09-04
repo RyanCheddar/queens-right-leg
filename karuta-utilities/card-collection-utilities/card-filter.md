@@ -56,13 +56,12 @@ The following filters may only be available in certain utilities:
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
 * **Max Possible Effort** (_maxEf_, _MaxEff_, _MaxEffort_)\
   (e.g. `maxEf<100`, `maxEffort:1`)\
-  \[[Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/lOuYypnvc11Yr03fUtS4/karuta-utilities/card-collection-utilities/worker-viewer) in [Spreadsheet Utility Mode](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only. Requires you to select _"Sorting by Mint Base Value"_ or _"Sorting by Max Possible Effort"_ at least once first.]\
-  (Note: If you didn't follow the above steps or is using the wrong utility, this filter will cause no cards to be returned.)
-* **Worker Base Value** _(bv, basevalue)_\
+  \[[Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/lOuYypnvc11Yr03fUtS4/karuta-utilities/card-collection-utilities/worker-viewer) in [Spreadsheet Utility Mode](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only.]\
+  (Note: Using this filter in the wrong utility or mode will lead to no cards being returned.)
+* **Worker Mint Base Value** _(bv, basevalue)_\
   __(e.g. `bv>100`, `bv:0`)\
-  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) or [Worker Viewer](worker-viewer.md)]\
-  (Note: This filters by _current_ base value in Spreadsheet Utility, and _mint_ base value in Worker Viewer _when outside Spreadsheet Utility_.)
-* **Worker Mint Base Value** (_mbv_, _mintbasevalue_)\
-  (e.g. _mbv>100_, _mbv:0_)\
-  \[[Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/lOuYypnvc11Yr03fUtS4/karuta-utilities/card-collection-utilities/worker-viewer) in [Spreadsheet Utility Mode](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only. Requires you to select _"Sorting by Mint Base Value"_ or _"Sorting by Max Possible Effort"_ at least once first.]\
-  (Note: If you didn't follow the above steps or is using the wrong utility, this filter will cause no cards to be returned.)\
+  \[[Worker Viewer](worker-viewer.md) only]
+* **Worker Current Base Value** (c_bv_, _currentbasevalue_)\
+  (e.g. c_bv>100_, c_bv:0_)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
+  (Note: Using this filter outside Spreadsheet Utility will lead to no cards being returned.)\
