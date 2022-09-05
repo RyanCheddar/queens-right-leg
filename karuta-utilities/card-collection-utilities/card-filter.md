@@ -64,4 +64,8 @@ The following filters may only be available in certain utilities:
 * **Worker Current Base Value** (c_bv_, _currentbasevalue_)\
   (e.g. c_bv>100_, c_bv:0_)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
-  (Note: Using this filter outside Spreadsheet Utility will lead to no cards being returned.)\
+  (Note: Using this filter outside Spreadsheet Utility will lead to no cards being returned.)
+* **Gender** (_gender_, _sex_)\
+  (e.g. `gender=male`, `sex=nb`)\
+  \[[Collection Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/DZJw8j2U729zLtHTjjqr/karuta-utilities/card-collection-utilities/collection-viewer) outside Spreadsheet Utility only]\
+  (Genders supported are: male, female, non-binary, ambiguous, none, unknown)\
