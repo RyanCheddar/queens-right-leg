@@ -31,8 +31,6 @@ After importing, you can run the following Card Collection utilities without nee
 * [Bulk Pricer](bulk-pricer.md) (Price cards from your Card Collection, with cosmetics accounted for!) \[leg bp]
 * [Worker Viewer](worker-viewer.md) (View highest Base Value cards in your Card Collection, as well as injury times) \[leg wv]
 
-If Spreadsheet Utility is still importing your spreadsheet, the data in these utilities will also update as you continue using them.
-
 ### Functionality Differences with Spreadsheet Utility
 
 Some functionality work differently when you're using a Card Collection Utility in Spreadsheet Utility Mode.
