@@ -50,7 +50,15 @@ The following filters may only be available in certain utilities:
 * **Drop Server ID** _(server, guild)_\
   __(e.g. `server=[ID]`, guild!\[ID])\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
-  (Note: This filter also supports larger than (>) and smaller than (<) operations, unlike Karuta)
+  (Note: This filter supports larger than (>) and smaller than (<) operations, if you somehow have a use for that.)
+* **Grabber User ID** (_grabber_, _grabberid_)\
+  (e.g. `grabber=[ID]`, `grabber![ID]`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
+  (Note: This filter supports larger than (>) and smaller than (<) operations, if you somehow have a use for that.)
+* **Dropper User ID** (_dropper_, _dropperid_)\
+  (e.g. `dropper=[ID]`, `dropperid!none`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
+  (Note: This filter supports larger than (>) and smaller than (<) operations, if you somehow have a use for that.)
 * **Effort** _(ef_, _eff, effort)_\
   (e.g. `effort>300`, `eff<30`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
