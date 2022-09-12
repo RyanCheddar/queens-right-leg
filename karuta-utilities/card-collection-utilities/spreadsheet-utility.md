@@ -25,7 +25,7 @@ For privacy and data accuracy reasons, Spreadsheet Utility data is automatically
 
 ### I imported my Card Collection. What now?
 
-After importing, you can run the following Card Collection utilities without needing to reply to your Card Collection!
+After importing, you can run the following Card Collection utilities without needing to reply to your Card Collection! Just run any of these commands directly.
 
 * [Collection Viewer](collection-viewer.md) (Browse through your entire Card Collection) \[leg cv]
 * [Bulk Pricer](bulk-pricer.md) (Price cards from your Card Collection, with cosmetics accounted for!) \[leg bp]
