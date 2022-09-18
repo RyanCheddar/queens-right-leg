@@ -59,6 +59,12 @@ The following filters may only be available in certain utilities:
   (e.g. `dropper=[ID]`, `dropperid!none`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
   (Note: This filter supports larger than (>) and smaller than (<) operations, if you somehow have a use for that.)
+* **Dropper Status** (_dropper)_\
+  __(e.g. `dropper=true`, `dropper=false`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Grabber Status** (_grabber)_\
+  __(e.g. `grabber=true`, `grabber=false`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Effort** _(ef_, _eff, effort)_\
   (e.g. `effort>300`, `eff<30`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
