@@ -41,9 +41,10 @@ The following filters may only be available in certain utilities:
 * **Frame Status** _(framed, frame, f)_\
   (e.g. `f:t`, `framed=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
-* **Applied Frame Name** _(framed, frame, f)_\
-  __(e.g. `f:cherry_blossom`, `frame=bubble`)\
-  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Applied Frame ID** _(framed, frame, f)_\
+  __(e.g. `f:blossom`, `frame=tipsy`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
+  (Note: This requires you to enter the frame ID of the frame you are looking for. For example: `Cherry Blossom Frame` is `blossom`. This filter is not strict, so you can usually guess the IDs with trial and error.)
 * **Dye Status** _(dyed, dye, d)_\
   __(e.g. `d:t`, `dyed=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
