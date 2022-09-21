@@ -38,6 +38,24 @@ The following filters may only be available in certain utilities:
 * **Tag** _(t, tag)_\
   (e.g. `t!burn`,`t:cool`)\
   \[[Spreadsheet Utility](spreadsheet-utility.md) only]
+* **Frame Status** _(framed, frame, f)_\
+  (e.g. `f:t`, `framed=false`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Applied Frame Name** _(framed, frame, f)_\
+  __(e.g. `f:cherry_blossom`, `frame=bubble`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Dye Status** _(dyed, dye, d)_\
+  __(e.g. `d:t`, `dyed=false`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Applied Dye Name/Code** _(dyed, dye, d)_\
+  __(e.g. `d:red`, `dye=$rlxzf`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Morph Status** _(morphed, morph, m)_\
+  __(e.g. `m:t`, `morphed=false`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Trim Status** _(trim, trimmed, tr)_\
+  __(e.g. `tr:t`, `trimmed=false`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Price** _($, price)_\
   (e.g. `$>3`,`$=0`)\
   \[[Collection Viewer](collection-viewer.md) & [Bulk Pricer](bulk-pricer.md) only]
