@@ -4,6 +4,12 @@ description: What to do when it looks like Leg isn't analysing your drops.
 
 # Leg isn't analysing my drops!
 
+{% hint style="info" %}
+Leg now has a built in tool for checking why Drop Analysis isn't working.
+
+If you ever encounter issues, just run "leg droptest" in the channel you want to use Drop Analysis in.
+{% endhint %}
+
 If Leg isn't replying to your drops, check the following steps to troubleshoot.
 
 * Check if Massdrop Mode is on. You can ask an admin to do "leg massdrop" and see if it's on. Massdrop Mode makes Leg not reply to drops unless a card has a high wishlist count.
