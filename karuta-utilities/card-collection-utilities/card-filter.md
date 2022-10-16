@@ -84,6 +84,9 @@ The following filters may only be available in certain utilities:
 * **Grabber Status** (_grabber)_\
   __(e.g. `grabber=true`, `grabber=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
+* **Worker Stats** (_style_, _purity_, _quickness_, _toughness_, _vanity_)\
+  (e.g. `style=S`, `purity:4`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Effort** _(ef_, _eff, effort)_\
   (e.g. `effort>300`, `eff<30`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
