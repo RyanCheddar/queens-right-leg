@@ -26,8 +26,8 @@ Please do not buy Premium access for features that might come in the future. Buy
 [premium-faq.md](premium-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="buying-premium.md" %}
-[buying-premium.md](buying-premium.md)
+{% content-ref url="how-to-buy.md" %}
+[how-to-buy.md](how-to-buy.md)
 {% endcontent-ref %}
 
 ### Other ways to support Leg

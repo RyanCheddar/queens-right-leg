@@ -6,8 +6,8 @@ description: Common questions regarding Premium Access
 
 ### How do I buy Premium Access with USD/Karuta currencies?
 
-{% content-ref url="buying-premium.md" %}
-[buying-premium.md](buying-premium.md)
+{% content-ref url="how-to-buy.md" %}
+[how-to-buy.md](how-to-buy.md)
 {% endcontent-ref %}
 
 ### What can I use to buy Premium Access?
