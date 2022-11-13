@@ -26,8 +26,6 @@
   * [Update Dye Data](karuta-utilities/dye-utilities/update-dye-data.md)
   * [Dye Tester](karuta-utilities/dye-utilities/dye-tester.md)
 * [Character Tools](karuta-utilities/character-tools/README.md)
-  * [Cached Lookup](karuta-utilities/character-tools/cached-lookup.md)
-  * [Alias List](karuta-utilities/character-tools/alias-list.md)
   * [Personal Wishlist](karuta-utilities/character-tools/personal-wishlist.md)
   * [Affection Calculator \[WIP\]](karuta-utilities/character-tools/affection-calculator-wip.md)
 * [User Utilities](karuta-utilities/user-utilities/README.md)

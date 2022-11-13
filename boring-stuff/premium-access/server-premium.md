@@ -11,7 +11,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 
 ### Karuta-related Perks
 
-* Higher drop quota before [Massdrop Mode](../../karuta-utilities/drop-analysis/massdrop-mode.md) automatically enables (25 drops/3 minutes/channel > 50 drops)
+* Higher drop quota before [Massdrop Mode](broken-reference) automatically enables (25 drops/3 minutes/channel > 50 drops)
 * Automatic Drop Reanalysis for all drops
 * No "\[FREE ANALYSIS]" message for drop analysis
 * [Wishlist Count Notifications](../../admin-management/drop-notifications/wishlist-count-notifications.md) (Ping roles when a drop has a character over x wishlist!) (Max 30)
