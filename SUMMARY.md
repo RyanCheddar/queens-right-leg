@@ -22,17 +22,12 @@
 
 ## Karuta Utilities
 
-* [Drop Analysis](karuta-utilities/drop-analysis/README.md)
-  * [Normal Drop Mode](karuta-utilities/drop-analysis/normal-drop-mode.md)
-  * [Massdrop Mode](karuta-utilities/drop-analysis/massdrop-mode.md)
-  * [Which mode should I use?](karuta-utilities/drop-analysis/which-mode-should-i-use.md)
 * [Dye Utilities](karuta-utilities/dye-utilities/README.md)
   * [Update Dye Data](karuta-utilities/dye-utilities/update-dye-data.md)
   * [Dye Tester](karuta-utilities/dye-utilities/dye-tester.md)
 * [Character Tools](karuta-utilities/character-tools/README.md)
   * [Cached Lookup](karuta-utilities/character-tools/cached-lookup.md)
   * [Alias List](karuta-utilities/character-tools/alias-list.md)
-  * [Card Finder](karuta-utilities/character-tools/card-finder.md)
   * [Personal Wishlist](karuta-utilities/character-tools/personal-wishlist.md)
   * [Affection Calculator \[WIP\]](karuta-utilities/character-tools/affection-calculator-wip.md)
 * [User Utilities](karuta-utilities/user-utilities/README.md)
@@ -110,7 +105,5 @@
 * [Is Leg safe to use?](faq-frequently-asked-questions/is-leg-safe-to-use.md)
 * [Who made Leg?](faq-frequently-asked-questions/who-made-leg.md)
 * [How do I use Reply-based Commands?](faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md)
-* [Leg isn't analysing my drops!](faq-frequently-asked-questions/leg-isnt-analysing-my-drops.md)
 * [Leg isn't responding to me at all!](faq-frequently-asked-questions/leg-isnt-responding-to-me-at-all.md)
-* [The card code for a card isn't showing! \[Card Finder\]](faq-frequently-asked-questions/the-card-code-for-a-card-isnt-showing-card-finder.md)
 * [A Leg feature is really annoying me!](faq-frequently-asked-questions/a-leg-feature-is-really-annoying-me.md)

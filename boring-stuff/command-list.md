@@ -12,7 +12,7 @@ This list may potentially be incomplete.
 | leg addreminder            | Add Reminder                                         | ​:point\_up:                                                                                           |
 | leg removereminder         | Remove Reminder                                      | ​:point\_up:                                                                                           |
 | leg math                   | Math Calculator                                      | [Math Calculator](../useful-utilities/math-calculator.md)                                              |
-| leg massdrop               | Configures Massdrop Mode                             | [Massdrop Mode](../karuta-utilities/drop-analysis/massdrop-mode.md)                                    |
+| leg massdrop               | Configures Massdrop Mode                             | [Massdrop Mode](broken-reference)                                                                      |
 | leg dyeupdate              | Update Cached Dyes                                   | [Update Dye Data](../karuta-utilities/dye-utilities/update-dye-data.md)                                |
 | leg dyeunauth              | Unauthorize Leg's Dye Access                         | :point\_up:                                                                                            |
 | leg dyetester              | Dye Tester                                           | [Dye Tester](../karuta-utilities/dye-utilities/dye-tester.md)                                          |
@@ -20,7 +20,7 @@ This list may potentially be incomplete.
 | leg olu                    | Cached Character Lookup (Sort by Last Updated Time)  | :point\_up:                                                                                            |
 | leg tlu                    | List of Characters with Possibly Broken Series Names | :point\_up:                                                                                            |
 | leg aliases                | Character Alias List                                 | [Alias List](../karuta-utilities/character-tools/alias-list.md)                                        |
-| leg cardfinder             | Card Finder                                          | [Card Finder](../karuta-utilities/character-tools/card-finder.md)                                      |
+| leg cardfinder             | Card Finder                                          | [Card Finder](broken-reference)                                                                        |
 | leg wishlist               | Personal Wishlist List                               | [Personal Wishlist](../karuta-utilities/character-tools/personal-wishlist.md)                          |
 | leg wishlistadd            | Add Character to Personal Wishlist                   | :point\_up:                                                                                            |
 | leg wishlistremove         | Remove Character from Personal Wishlist              | :point\_up:                                                                                            |

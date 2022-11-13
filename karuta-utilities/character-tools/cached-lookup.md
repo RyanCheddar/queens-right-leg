@@ -28,4 +28,4 @@ Cached Lookup provides you roughly the same functionalities as a normal Karuta l
 
 * Estimated Base Value for editions is available.
 * [Character UUID](../../faq-frequently-asked-questions/whats-a-character-uuid.md)s for characters are provided.
-* A shortcut to Leg's [Card Finder](card-finder.md) is provided.
+* A shortcut to Leg's [Card Finder](broken-reference) is provided.
