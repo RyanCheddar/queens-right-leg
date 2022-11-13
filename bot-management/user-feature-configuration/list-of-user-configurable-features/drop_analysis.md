@@ -12,6 +12,6 @@ If this is disabled, some features like Personal Wishlist might become inaccessi
 
 For more information about Drop Analysis, head here:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../karuta-utilities/drop-analysis/" %}
+[drop-analysis](../../../karuta-utilities/drop-analysis/)
 {% endcontent-ref %}
