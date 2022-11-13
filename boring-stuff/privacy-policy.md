@@ -48,10 +48,6 @@ Here are quick rundowns of what information Leg processes and stores, and other 
 * Premium access \[Servers]\
   (The duration of a server's Premium access may be viewable to all server members.)\
   (Personal Premium access information is not viewable by anyone other than you.)
-* Cards cached by Card Finder\
-  (If you are the owner of the card, you can hide it using "leg hidecard \[Card code]")
-* Sketched cards cached by Card Finder (Displayed in Sketch Viewer)\
-  (Sketched cards cannot be hidden, but hiding a card in Card Finder will reduce the amount of information associated to the card.)
 
 ### Purchasing Premium access with Tebex (IRL Money)
 
@@ -88,13 +84,8 @@ ForgetMe will:
 
 However, ForgetMe does not:
 
-* Delete your data contributions\
-  (Things such as the cards you lookup, characters you've looked up, Karuta information you've pulled up and etc.)\
-  (This is because these data are not linked to you.)
 * Delete Premium access information about you\
   (This information auto-deletes once your Premium access expires and you have no remaining tokens)
-* Delete information about cards owned by you in Card Finder\
-  (You will need to use "leg hidecard \[Card Code]")
 
 #### Servers
 
