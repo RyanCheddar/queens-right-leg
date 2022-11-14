@@ -8,13 +8,19 @@ description: How Leg processes your information.
 Any enquiries can be sent to our Support Server, our twitter (@LegTheBot) or our email at leg@ryansbakery.dev
 {% endhint %}
 
+{% hint style="info" %}
+The privacy policy is available in full/legalese at the bottom of the page
+{% endhint %}
 
 
-Leg takes great care in handling player privacy transparently, as you deserve to know about how your information is being processed.
+
+
+
+Leg takes great care in handling your privacy transparently, as you deserve to know about how your information is being processed.
 
 Here are quick rundowns of what information Leg processes and stores, and other things that you might want to know.
 
-#### The following information are collected anonymously and are not linked to any users, Karuta cards or server:
+#### The following information are processed anonymously and are not linked to any users, Karuta cards or server:
 
 * Karuta character data\
   (Name, Series, Wishlist, Aliases, Image URL, Drop statistics etc.)
