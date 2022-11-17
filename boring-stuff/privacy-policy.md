@@ -123,7 +123,7 @@ Messages containing Leg's syntax but do not correspond to actual commands may al
 These logs are wiped during bot restarts, and are not accessed unless necessary. These logs cannot be accessed by anyone other than @RyanC#5785.
 {% endhint %}
 
-## Now in Legalese
+## Now in Full/Legalese
 
 **Privacy Policy**
 
@@ -141,7 +141,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 **Log Data**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your User ID, the configuration of our service when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
