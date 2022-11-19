@@ -12,6 +12,10 @@ Currently, the following Card Collection Utilities support Card Filters:
 * Bulk Pricer
 * Worker Viewer
 
+Additionally, the following commands/utilities are also compatible with Card Filters:
+
+* Sketch Viewer (Some filters are not supported, such as quality.)
+
 ## Supported Filters
 
 {% hint style="info" %}
@@ -103,5 +107,5 @@ The following filters may only be available in certain utilities:
   (Note: Using this filter outside Spreadsheet Utility will lead to no cards being returned.)
 * **Gender** (_gender_, _sex_)\
   (e.g. `gender=male`, `sex=nb`)\
-  \[[Collection Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/DZJw8j2U729zLtHTjjqr/karuta-utilities/card-collection-utilities/collection-viewer) outside Spreadsheet Utility only]\
+  \[[Collection Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/DZJw8j2U729zLtHTjjqr/karuta-utilities/card-collection-utilities/collection-viewer) outside Spreadsheet Utility and Sketch Viewer only]\
   (Genders supported are: male, female, non-binary, ambiguous, none, unknown)\
