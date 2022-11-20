@@ -27,6 +27,12 @@ Extra 30 days when buying 180 days at once using USD!
 
 Payment with :tickets: tickets is possible, but price will be dependent on market price.
 
+### \[NEW] Small/Medium Server Premium discount
+
+For servers with less than 1500 members, you can get Server Premium for only **$3.75** a month when paying via USD. (25% discount!)
+
+This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all).
+
 {% hint style="warning" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) may not be given to your members when you buy Server Premium.
 
