@@ -16,8 +16,12 @@ To purchase with USD, head to the Tebex store here:
 
 {% embed url="https://queens-right-leg.tebex.io/category/2067003" %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Buying Server Premium with USD is only possible if you are the server owner. If you are not the server owner, you will need to buy using tickets instead.
+{% endhint %}
+
+{% hint style="info" %}
+If your server has less than 1500 members, you may be eligible for the Small Server Premium discount. Use "leg premium" to check if your server is eligible for the discount.
 {% endhint %}
 
 Once you have purchased the right package, wait for a DM from Leg.
