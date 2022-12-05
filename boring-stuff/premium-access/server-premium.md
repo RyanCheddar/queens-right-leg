@@ -40,4 +40,5 @@ Perk that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
 * Ability to reduce a running Leg Marketplace auction's duration to 3 days.
+* Personal Wishlist Syncing, both to and from other servers)
 {% endhint %}
