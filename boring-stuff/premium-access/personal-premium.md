@@ -6,7 +6,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 
 * Lowered global cooldown (6s > 2s)
 * Improved speeds in some commands (Such as Collection Viewer, Worker Viewer and etc.)
-* More [Reminder](../../useful-utilities/reminders.md) slots (5 > 50)
+* More [Reminder](../../useful-utilities/reminders.md) slots (5 > 60)
 
 ### Karuta-related Perks
 
@@ -16,8 +16,9 @@ Personal Premium is Premium Access for individual users. The perks include:
 * Higher resolution in [Dye Tester](../../karuta-utilities/dye-utilities/dye-tester.md)
 * Pixel-level position adjustment for [Card 3D-ifier](../../karuta-utilities/card-utilities/card-3d-ifier.md)
 * More responsive "Next action arrow" in [Date Solver](../../karuta-utilities/date-solver.md)
-* More [Personal Wishlist](../../karuta-utilities/character-tools/personal-wishlist.md) slots (1 > 4)
+* More [Personal Wishlist](../../karuta-utilities/character-tools/personal-wishlist.md) slots (2 > 60)
 * Ability to view non-cached Trend data ([Character Wishlist](../../karuta-utilities/statistics-and-data/character-wishlist-trends.md) & [Drop Trends](../../karuta-utilities/statistics-and-data/drop-trends.md))
+* Ability to reduce a running Leg Marketplace auction's duration to 3 days.
 
 
 
