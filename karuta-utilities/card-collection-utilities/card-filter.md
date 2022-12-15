@@ -94,6 +94,9 @@ The following filters may only be available in certain utilities:
 * **Effort** _(ef_, _eff, effort)_\
   (e.g. `effort>300`, `eff<30`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility), or if effort data is available in Card Collection embed]
+* **Burn Price** (_burnprice_, _burnvalue_, _burnval_)\
+  (e.g. `burnprice>100`, `burnval=1`)\
+  \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) and [Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/FaE50EQehluZXEuEvwqw/karuta-utilities/card-collection-utilities/worker-viewer) only]
 * **Max Possible Effort** (_maxEf_, _MaxEff_, _MaxEffort_)\
   (e.g. `maxEf<100`, `maxEffort:1`)\
   \[[Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/lOuYypnvc11Yr03fUtS4/karuta-utilities/card-collection-utilities/worker-viewer) in [Spreadsheet Utility Mode](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only.]\
