@@ -22,7 +22,11 @@
 
 ## Karuta Utilities
 
-* [Drop Analysis](karuta-utilities/drop-analysis.md)
+* [Drop Analysis](karuta-utilities/drop-analysis/README.md)
+  * [Normal Drop Mode](karuta-utilities/drop-analysis/normal-drop-mode.md)
+  * [Massdrop Mode](karuta-utilities/drop-analysis/massdrop-mode.md)
+  * [Which mode should I use?](karuta-utilities/drop-analysis/which-mode-should-i-use.md)
+  * [Drop Reanalysis and Confidence System](karuta-utilities/drop-analysis/drop-reanalysis-and-confidence-system.md)
 * [Dye Utilities](karuta-utilities/dye-utilities/README.md)
   * [Update Dye Data](karuta-utilities/dye-utilities/update-dye-data.md)
   * [Tiled Dye List](karuta-utilities/dye-utilities/tiled-dye-list.md)
