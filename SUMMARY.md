@@ -22,8 +22,10 @@
 
 ## Karuta Utilities
 
+* [Drop Analysis](karuta-utilities/drop-analysis.md)
 * [Dye Utilities](karuta-utilities/dye-utilities/README.md)
   * [Update Dye Data](karuta-utilities/dye-utilities/update-dye-data.md)
+  * [Tiled Dye List](karuta-utilities/dye-utilities/tiled-dye-list.md)
   * [Dye Tester](karuta-utilities/dye-utilities/dye-tester.md)
 * [Character Tools](karuta-utilities/character-tools/README.md)
   * [Personal Wishlist](karuta-utilities/character-tools/personal-wishlist.md)
