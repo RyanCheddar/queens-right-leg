@@ -56,7 +56,7 @@ Here are quick rundowns of what information Leg processes and stores, and other 
 #### The following information is linked to users/cards/servers and is publicly viewable:
 
 * User dyes\
-  (Collected only when you authorize Leg to. You can unauthorize and delete this data with "leg dyeunauth")
+  (Collected only when you authorize Leg to. You can unauthorize and delete this data with "leg dyeunauth", and you can make it private with "leg userconfig dye\_public false")
 * Premium access \[Servers]\
   (The duration of a server's Premium access may be viewable to all server members.)\
   (Personal Premium access information is not viewable by anyone other than you.)
