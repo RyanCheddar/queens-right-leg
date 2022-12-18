@@ -5,7 +5,7 @@ description: View all your dyes in one single image
 # Tiled Dye List
 
 {% hint style="info" %}
-Command: "leg dyes"\
+Command: "leg dyes \<User (Optional)>"\
 Aliases: "dyelist", "dyeviewer", "dyetile", "tiledye", "tiledyes", "showdyes"
 {% endhint %}
 
