@@ -5,7 +5,8 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 ### Bot Perks
 
 * [Personal Premium](personal-premium.md) for all server members\
-  (As long as they're using Leg in your server)
+  (As long as they're using Leg in your server)\
+  \* Exceptions apply
 * \+5 Ephemeral Reminder Slots for server members\
   (Ephemeral Reminder Slots can only be used in Date Solver, but they bypass the normal per-user Reminder slot limit, even if a user doesn't have Personal Premium.)
 
