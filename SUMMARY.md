@@ -104,6 +104,7 @@
   * [Wishlist Drop Notifications](admin-management/drop-notifications/wishlist-drop-notifications.md)
   * [Server Drop Notifications](admin-management/drop-notifications/server-drop-notifications.md)
   * [Special Drop Notifications](admin-management/drop-notifications/special-drop-notifications.md)
+  * [Special Print Drop Notifications](admin-management/drop-notifications/special-drop-notifications-1.md)
 * [Dropboards](admin-management/dropboards.md)
 
 ## FAQ (Frequently Asked Questions)
@@ -114,4 +115,4 @@
 * [How do I use Reply-based Commands?](faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md)
 * [Leg isn't responding to me at all!](faq-frequently-asked-questions/leg-isnt-responding-to-me-at-all.md)
 * [A Leg feature is really annoying me!](faq-frequently-asked-questions/a-leg-feature-is-really-annoying-me.md)
-* [The card code for a card isn't showing! [Card Finder]](faq-frequently-asked-questions/the-card-code-for-a-card-isnt-showing-card-finder.md)
+* [The card code for a card isn't showing! \[Card Finder\]](faq-frequently-asked-questions/the-card-code-for-a-card-isnt-showing-card-finder.md)

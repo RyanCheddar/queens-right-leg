@@ -14,4 +14,4 @@ Worker Viewer currently supports displaying and sorting by the following informa
 * Injury Time
 * Toughness / Style \[In [Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/mBNCMk7iScK78kvvS2RX/karuta-utilities/card-collection-utilities/spreadsheet-utility) Mode]
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)

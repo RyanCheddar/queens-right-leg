@@ -7,7 +7,7 @@ description: See your dyes next to a card with ease!
 Dye Tester allows you to see how your dyes would work with a card by placing them next to it.
 
 {% hint style="info" %}
-Command: "leg dyetester"
+Command: "leg dyetester \<User (Optional)>"
 
 Alias: "dyetest"
 
