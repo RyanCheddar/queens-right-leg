@@ -34,7 +34,7 @@ Some of these filters do not exist in Karuta and are only available in Leg!
   (e.g. `c:luke`,`c=raiden_shogun`)
 * **Series Name** _(s, series)_\
   (e.g. `s:tears_of_themis`,`s=genshin`)
-* **Card Code** _(#, code)_\
+* **Card Code** _(#, code_, _cardcode)_\
   (e.g. `#:3bfxgn`, `#!vhvldt`)
 
 The following filters may only be available in certain utilities:
