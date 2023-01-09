@@ -112,7 +112,7 @@ The following filters may only be available in certain utilities:
   (e.g. `gender=male`, `sex=nb`)\
   \[[Collection Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/DZJw8j2U729zLtHTjjqr/karuta-utilities/card-collection-utilities/collection-viewer) outside Spreadsheet Utility and Sketch Viewer only]\
   (Genders supported are: male, female, non-binary, ambiguous, none, unknown)
-* **Gender** (_sketcher_, _sk_, _sketcherid_, _skid_)\
+* **Sketcher ID/Name** (_sketcher_, _sk_, _sketcherid_, _skid_)\
   (e.g. `sketcher=333994507769217036`, `sk:queen`)\
   \[Sketch Viewer only]\
   (Filtering by Sketcher name is only possible for sketchers registered in Leg system. If you're a sketcher or know a sketcher, DM @RyanC#5785 to be added.)\
