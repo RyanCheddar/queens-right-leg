@@ -21,6 +21,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 * Ability to reduce a running Leg Marketplace auction's duration to 3 days.
 * Ability to create Promoted Auctions on the Leg Marketplace.
 * Ability to set a Leg Marketplace auction's end time to more than 2 weeks.
+* Access to [Reaction Shortcuts](../../bot-management/server-feature-configuration/list-of-features/reaction\_shortcuts.md)
 
 
 
