@@ -83,6 +83,7 @@
     * [use\_apricot](bot-management/server-feature-configuration/list-of-features/use\_apricot.md)
     * [error\_messages](bot-management/server-feature-configuration/list-of-features/error\_messages.md)
     * [reaction\_shortcuts](bot-management/server-feature-configuration/list-of-features/reaction\_shortcuts.md)
+    * [self\_reaction](bot-management/server-feature-configuration/list-of-features/reaction\_shortcuts-1.md)
 * [User Feature Configuration](bot-management/user-feature-configuration/README.md)
   * [List of User-Configurable Features](bot-management/user-feature-configuration/list-of-user-configurable-features/README.md)
     * [enable](bot-management/user-feature-configuration/list-of-user-configurable-features/enable.md)
