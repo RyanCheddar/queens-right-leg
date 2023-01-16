@@ -16,5 +16,5 @@ Leg might automatically enable Massdrop Mode when a channel has too much drop tr
 \
 A channel might get locked into Massdrop Mode or frequently switch back to Massdrop Mode if drop traffic stays high. \
 \
-You can increase the drop quota for channels by purchasing Server Premium (From 18 drops/3mins/channel > 36 drops/3mins/channel)
+You can increase the drop quota for channels by purchasing Server Premium (From 14 drops/3mins/channel > 30 drops/3mins/channel)
 {% endhint %}
