@@ -13,9 +13,11 @@ This list may potentially be incomplete.
 | leg removereminder         | Remove Reminder                                      | ​:point\_up:                                                                                           |
 | leg math                   | Math Calculator                                      | [Math Calculator](../useful-utilities/math-calculator.md)                                              |
 | leg massdrop               | Configures Massdrop Mode                             | [Massdrop Mode](broken-reference)                                                                      |
+| leg droptest               | Drop Analysis Diagnostics                            | [Drop Analysis](../karuta-utilities/drop-analysis/)                                                    |
 | leg dyeupdate              | Update Cached Dyes                                   | [Update Dye Data](../karuta-utilities/dye-utilities/update-dye-data.md)                                |
 | leg dyeunauth              | Unauthorize Leg's Dye Access                         | :point\_up:                                                                                            |
 | leg dyetester              | Dye Tester                                           | [Dye Tester](../karuta-utilities/dye-utilities/dye-tester.md)                                          |
+| leg dyes                   | Tiled Dye List                                       | Tiled Dye List                                                                                         |
 | leg lu                     | Cached Character Lookup                              | [Cached Lookup](broken-reference)                                                                      |
 | leg olu                    | Cached Character Lookup (Sort by Last Updated Time)  | :point\_up:                                                                                            |
 | leg tlu                    | List of Characters with Possibly Broken Series Names | :point\_up:                                                                                            |
@@ -62,3 +64,4 @@ This list may potentially be incomplete.
 | leg dropboardedit          | Edit/Remove Dropboard                                | :point\_up:                                                                                            |
 | leg forgetme               | Delete User Data from Leg                            | [Privacy Policy](privacy-policy.md)                                                                    |
 | leg jobboard               | Job Board Extended View                              | [Job Board Extended View](../karuta-utilities/user-utilities/job-board-extended-view.md)               |
+| leg sketchviewer           | Sketch Viewer                                        | Sketch Viewer                                                                                          |

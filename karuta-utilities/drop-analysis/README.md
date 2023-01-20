@@ -7,3 +7,7 @@ To do so, he reads drop messages from Karuta to find card information, then comp
 {% hint style="info" %}
 Drop Analysis is enabled by default. To disable it, use the "featureset" command ([Feature Configuration](https://github.com/RyanCheddar/queens-right-leg/blob/5bef42a434d17e00a42f1d9bf20ed34a89518d48/bot-management/server-feature-configuration))
 {% endhint %}
+
+{% hint style="warning" %}
+If Drop Analysis doesn't seem to be functioning correctly in a channel, run "leg droptest" to open Drop Analysis Diagnostics, which will tell you the problem.
+{% endhint %}
