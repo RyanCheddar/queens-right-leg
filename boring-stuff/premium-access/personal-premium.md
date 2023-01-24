@@ -33,6 +33,6 @@ Personal Premium works in all servers with Leg, even if they don't have Premium 
 
 Extra 30 days when buying 180 days at once using USD!
 
-Payment with 🎟 tickets is allowed, but price will be dependent on market price.
+Payment with 🎟 tickets is allowed, but price will be dependent on market price (Ticket to Gem Price).
 
 You can also get Personal Premium if you server boost [Leg Community](https://discord.gg/SRWDAk7VnN)!

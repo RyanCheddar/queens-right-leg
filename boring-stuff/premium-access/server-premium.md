@@ -27,7 +27,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 
 Extra 30 days when buying 180 days at once using USD!
 
-Payment with :tickets: tickets is possible, but price will be dependent on market price.
+Payment with :tickets: tickets is possible, but price will be dependent on market price (Ticket to Gem Price).
 
 ### \[NEW] Small Server Premium discount
 
