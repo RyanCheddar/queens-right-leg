@@ -23,7 +23,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Increased [Special Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications.md) Limit (1 Role > 30)
 * Role Pinging in [Dropboards](../../admin-management/dropboards.md)
 
-### Price of Server Premium: $5 / 500 💎 a month
+### Price of Server Premium: $5 / 600 💎 a month
 
 Extra 30 days when buying 180 days at once using USD!
 
