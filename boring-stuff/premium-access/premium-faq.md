@@ -22,6 +22,8 @@ Payment using USD supports a wide variety of payment methods, mainly:
 
 Payment using Karuta currencies like tickets is also allowed, conversion rates depend on what the current gem prices are.
 
+If you are not the server owner, you cannot purchase Premium Access for servers using USD without being authorized by the server owner. For more information, read below.
+
 ### Can I use Leg without Premium Access?
 
 Absolutely! Most features are designed to not require Premium Access. Premium Access isn't meant to be a paywall, but rather a way to support the bot's development while giving rewards in return.
@@ -41,3 +43,11 @@ If you are buying through Tebex, refer to the [Terms of Service](../leg-terms-of
 If you are buying using Karuta currencies, you can request for a refund within 24 hours after purchase. These requests should be sent through the [Support Server](https://discord.gg/SRWDAk7VnN).
 
 Note that if you do receive a refund, it will likely only be a one-time courtesy. Refunds can be refused for any reason after purchase.
+
+### How can I use USD to buy Server Premium, even if I'm not the server owner?
+
+Ask the server owner of your server to DM @RyanC#5785 with the following message:
+
+> I authorize \[Your Name] to purchase Premium access using USD for my server (\[Server Name] - \[Server ID]), and I acknowledge that in the event of a chargeback or a payment dispute, I accept any repercussions or consequences indicted on me or my server.
+
+This only needs to be done once. After this is done, you can purchase however many days you need on Tebex, then DM @RyanC#5785 to redeem your tokens into time for your server.
