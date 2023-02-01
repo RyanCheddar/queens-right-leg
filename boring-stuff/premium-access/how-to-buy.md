@@ -24,6 +24,14 @@ Buying Server Premium with USD is only possible if you are the server owner. If 
 If your server has less than 1500 members, you may be eligible for the Small Server Premium discount. Use "leg premium" to check if your server is eligible for the discount.
 {% endhint %}
 
+{% hint style="danger" %}
+There are two options on Tebex's page when buying Premium: "Subscribe" and "Add to basket".
+
+_**"Subscribe" will automatically charge you**_ every month (or 210 Days depending on your package). This can be cancelled using the email tebex sends you, or by sending a request in my Support Server.
+
+"Add to basket" is usually what you want if you want to buy a set amount of days once only.
+{% endhint %}
+
 Once you have purchased the right package, wait for a DM from Leg.
 
 {% hint style="warning" %}
