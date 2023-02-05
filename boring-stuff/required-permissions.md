@@ -4,6 +4,12 @@ description: Permissions that need to be given to Leg for it to be operational.
 
 # Required Permissions
 
+{% hint style="danger" %}
+Don't just give Leg Administrator in your server and call it a day. This is a horrible HORRIBLE thing to do, even for verified bots.\
+\
+Bots can always be compromised at any time, and while this most likely won't happen to Leg, are you sure you want to risk that?
+{% endhint %}
+
 ### Essential Permissions
 
 * **Read/Send Messages**\
