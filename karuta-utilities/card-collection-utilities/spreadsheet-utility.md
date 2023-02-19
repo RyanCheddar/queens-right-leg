@@ -9,7 +9,8 @@ With Spreadsheet Utility, you are able to use Collection Utilities such as Colle
 Not only that, when using Spreadsheet Utility, you can have your ENTIRE Card Collection in any Leg utility at once!
 
 {% hint style="info" %}
-Spreadsheet Utility can be run by doing "ksheet" or equivalent in Karuta. Importing takes a while, but you can immediately start using Card Collection Utilities that work with Spreadsheet Utility.\
+You can import your collection by doing "ksheet" or equivalent in Karuta. After that, follow Leg's instructions.
+
 
 
 If you want Spreadsheet Utility to stop appearing when you do "ksheet", you can disable it with ["leg userconfig spreadsheet\_utility false"](../../bot-management/user-feature-configuration/list-of-user-configurable-features/spreadsheet\_utility.md)
@@ -23,7 +24,7 @@ Usage of Spreadsheet Utility will also import all of your cards into Card Finder
 For privacy and data accuracy reasons, Spreadsheet Utility data is automatically deleted 3 days after importing. This does not remove your cards from Card Finder, however.
 {% endhint %}
 
-### I imported my Card Collection. What now?
+### I imported my Card Collection. Now what?
 
 After importing, you can run the following Card Collection utilities without needing to reply to your Card Collection! Just run any of these commands directly.
 
