@@ -73,7 +73,7 @@
 * [Server Feature Configuration](bot-management/server-feature-configuration/README.md)
   * [Channel Feature Override](bot-management/server-feature-configuration/channel-feature-override.md)
   * [List of Features](bot-management/server-feature-configuration/list-of-features/README.md)
-    * [wishlist\_notif](bot-management/server-feature-configuration/list-of-features/wishlist\_notif.md)
+    * [wishlist\_notif \[DEPRECATED\]](bot-management/server-feature-configuration/list-of-features/wishlist\_notif.md)
     * [drop\_analysis](bot-management/server-feature-configuration/list-of-features/drop\_analysis.md)
     * [cached\_lookup](bot-management/server-feature-configuration/list-of-features/cached\_lookup.md)
     * [daily\_solver](bot-management/server-feature-configuration/list-of-features/daily\_solver.md)
