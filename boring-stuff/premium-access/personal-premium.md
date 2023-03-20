@@ -4,7 +4,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 
 ### Bot Perks
 
-* Lowered global cooldown (6s > 2s)
+* Lowered global cooldown (7s > 3s)
 * Improved speeds in some commands (Such as Collection Viewer, Worker Viewer and etc.)
 * More [Reminder](../../useful-utilities/reminders.md) slots (5 > 60)
 

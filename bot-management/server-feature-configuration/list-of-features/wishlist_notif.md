@@ -1,8 +1,8 @@
 ---
-description: Deprecated feature!
+description: Removed feature!
 ---
 
-# wishlist\_notif \[DEPRECATED]
+# wishlist\_notif \[REMOVED]
 
 This feature setting no longer does anything and will be removed in a future update.
 
