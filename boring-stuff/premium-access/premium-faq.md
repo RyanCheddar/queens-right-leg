@@ -50,6 +50,6 @@ The easiest way is to just have the owner transfer server ownership to yourself,
 
 If that isn't possible for any (probably valid) reasons, ask the server owner of your server to DM @RyanC#5785 with the following message:
 
-> I authorize \[Your Name] to purchase Premium access using USD for my server (\[Server Name] - \[Server ID]), and I acknowledge that in the event of a chargeback or a payment dispute, I accept any repercussions or consequences indicted on me or my server.
+> I authorize \[Your Name] to purchase Premium access in the bot Queen's Right Leg using USD for my server (\[Server Name] - \[Server ID]), and I acknowledge that in the event of a chargeback or a payment dispute, I accept any repercussions or consequences indicted on me or my server, including but not limited to a permanent blacklist from the bot Queen's Right Leg.
 
 This only needs to be done once. After this is done, you can purchase however many days you need on Tebex, then DM @RyanC#5785 to redeem your tokens into time for your server.
