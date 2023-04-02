@@ -46,7 +46,9 @@ Note that if you do receive a refund, it will likely only be a one-time courtesy
 
 ### How can I use USD to buy Server Premium, even if I'm not the server owner?
 
-Ask the server owner of your server to DM @RyanC#5785 with the following message:
+The easiest way is to just have the owner transfer server ownership to yourself, then you can transfer it back once you have redeemed the premium.
+
+If that isn't possible for any (likely valid) reasons, ask the server owner of your server to DM @RyanC#5785 with the following message:
 
 > I authorize \[Your Name] to purchase Premium access using USD for my server (\[Server Name] - \[Server ID]), and I acknowledge that in the event of a chargeback or a payment dispute, I accept any repercussions or consequences indicted on me or my server.
 
