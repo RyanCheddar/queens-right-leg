@@ -12,7 +12,7 @@
   * [Personal Premium](boring-stuff/premium-access/personal-premium.md)
   * [Server Premium](boring-stuff/premium-access/server-premium.md)
   * [Premium FAQ](boring-stuff/premium-access/premium-faq.md)
-  * [How to Buy](boring-stuff/premium-access/how-to-buy.md)
+  * [How to Buy/Redeem](boring-stuff/premium-access/how-to-buy.md)
 * [Command List](boring-stuff/command-list.md)
 
 ## Useful Utilities
