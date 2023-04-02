@@ -53,3 +53,14 @@ If that isn't possible for any (probably valid) reasons, ask the server owner of
 > I authorize \[Your Name] to purchase Premium access in the bot Queen's Right Leg using USD for my server (\[Server Name] - \[Server ID]), and I acknowledge that in the event of a chargeback or a payment dispute, I accept any repercussions or consequences indicted on me or my server, including but not limited to a permanent blacklist from the bot Queen's Right Leg.
 
 This only needs to be done once. After this is done, you can purchase however many days you need on Tebex, then DM @RyanC#5785 to redeem your tokens into time for your server.
+
+{% hint style="danger" %}
+In the event that the purchaser issues a chargeback or any issues occur with their payment, by authorizing the purchaser with this statement, the server owner accepts that any of the following may occur, listed in no particular order:
+
+* Permanent blacklist from Leg for the server
+* Permanent blacklist from Leg for the server owner
+* Premium access ban for the server
+
+\
+Additionally, negative consequences may also occur for the purchaser, as stipulated in the [Terms of Service](../leg-terms-of-service.md).
+{% endhint %}
