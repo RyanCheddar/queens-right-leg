@@ -13,7 +13,7 @@ Bots can always be compromised at any time, and while this most likely won't hap
 ### Essential Permissions
 
 * **Read/Send Messages**\
-  Required for all features in Leg
+  Required for most features in Leg. May not be necessary if you use slash commands, but Leg's functionality will be severely restricted.
 * **Embed Links**\
   ****Required for Leg to reply to users
 * **Attach Files**\
