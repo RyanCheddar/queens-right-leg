@@ -1,4 +1,4 @@
-# How to Buy
+# How to Buy/Redeem
 
 There are two ways to buy Premium.
 
@@ -14,7 +14,7 @@ Buying with USD directly supports the development of Leg.&#x20;
 
 To purchase with USD, head to the Tebex store here:
 
-{% embed url="https://queens-right-leg.tebex.io/category/2067003" %}
+{% embed url="https://store.leg.ryansbakery.dev/" %}
 
 {% hint style="warning" %}
 Buying Server Premium with USD is only possible if you are the server owner. If you are not the server owner, you will need to buy using tickets instead.
