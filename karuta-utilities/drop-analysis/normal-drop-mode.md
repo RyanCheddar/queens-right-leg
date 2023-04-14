@@ -6,7 +6,6 @@ Normal Drop Mode:
 * Tells you when a card has a good print number
 * Shows when a drop will expire/has expired
 * Allows you to look up the cards in a drop all at once by replying with [Cached Lookup](https://github.com/RyanCheddar/queens-right-leg/blob/5bef42a434d17e00a42f1d9bf20ed34a89518d48/karuta-utilities/character-tools/cached-lookup.md)
-* Reanalyses the drop for better results when there's incorrect data in the analysis \[Premium Only]
 
 However, Normal Drop Mode also comes with certain drawbacks:
 
