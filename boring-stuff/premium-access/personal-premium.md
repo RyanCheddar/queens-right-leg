@@ -10,6 +10,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 
 ### Karuta-related Perks
 
+* No "\[FREE ANALYSIS]" message for drop analysis
 * Higher resolution and less obtrusive watermark in [Tile View (Collection Viewer)](../../karuta-utilities/card-collection-utilities/collection-viewer.md)
 * Higher resolution and less obtrusive watermark in [Mass Frame Tester](../../karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)
 * Special features in [Frame Tester](../../karuta-utilities/card-utilities/frame-tester/)/[Mass Frame Tester](../../karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)
