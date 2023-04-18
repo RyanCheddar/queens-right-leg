@@ -46,20 +46,20 @@ The following filters may only be available in certain utilities:
   (e.g. `f:t`, `framed=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Applied Frame ID** _(framed, frame, f)_\
-  __(e.g. `f:blossom`, `frame=tipsy`)\
+  (e.g. `f:blossom`, `frame=tipsy`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
   (Note: This requires you to enter the frame ID of the frame you are looking for. For example: `Cherry Blossom Frame` is `blossom`. This filter is not strict, so you can usually guess the IDs with trial and error.)
 * **Dye Status** _(dyed, dye, d)_\
-  __(e.g. `d:t`, `dyed=false`)\
+  (e.g. `d:t`, `dyed=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Applied Dye Name/Code** _(dyed, dye, d)_\
-  __(e.g. `d:red`, `dye=$rlxzf`)\
+  (e.g. `d:red`, `dye=$rlxzf`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Morph Status** _(morphed, morph, m)_\
-  __(e.g. `m:t`, `morphed=false`)\
+  (e.g. `m:t`, `morphed=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Trim Status** _(trim, trimmed, tr)_\
-  __(e.g. `tr:t`, `trimmed=false`)\
+  (e.g. `tr:t`, `trimmed=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/uAvlG5KcG3JdsaiwvkPu/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Price** _($, price)_\
   (e.g. `$>3`,`$=0`)\
@@ -71,7 +71,7 @@ The following filters may only be available in certain utilities:
   (e.g. `i:true`, `i=no`)\
   \[Not available in Bulk Pricer outside Spreadsheet Utility Mode]
 * **Drop Server ID** _(server, guild)_\
-  __(e.g. `server=[ID]`, guild!\[ID])\
+  (e.g. `server=[ID]`, guild!\[ID])\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
   (Note: This filter supports larger than (>) and smaller than (<) operations, if you somehow have a use for that.)
 * **Grabber User ID** (_grabber_, _grabberid_)\
@@ -83,10 +83,10 @@ The following filters may only be available in certain utilities:
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]\
   (Note: This filter supports larger than (>) and smaller than (<) operations, if you somehow have a use for that.)
 * **Dropper Status** (_dropper)_\
-  __(e.g. `dropper=true`, `dropper=false`)\
+  (e.g. `dropper=true`, `dropper=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Grabber Status** (_grabber)_\
-  __(e.g. `grabber=true`, `grabber=false`)\
+  (e.g. `grabber=true`, `grabber=false`)\
   \[[Spreadsheet Utility](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only]
 * **Worker Stats** (_style_, _purity_, _quickness_, _toughness_, _vanity_)\
   (e.g. `style=S`, `purity:4`)\
@@ -102,7 +102,7 @@ The following filters may only be available in certain utilities:
   \[[Worker Viewer](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/lOuYypnvc11Yr03fUtS4/karuta-utilities/card-collection-utilities/worker-viewer) in [Spreadsheet Utility Mode](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/OlSca5zoO5YwB4EQOnye/karuta-utilities/card-collection-utilities/spreadsheet-utility) only.]\
   (Note: Using this filter in the wrong utility or mode will lead to no cards being returned.)
 * **Worker Mint Base Value** _(bv, basevalue)_\
-  __(e.g. `bv>100`, `bv:0`)\
+  (e.g. `bv>100`, `bv:0`)\
   \[[Worker Viewer](worker-viewer.md) only]
 * **Worker Current Base Value** (c_bv_, _currentbasevalue_)\
   (e.g. c_bv>100_, c_bv:0_)\
