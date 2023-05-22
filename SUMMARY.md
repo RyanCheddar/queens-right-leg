@@ -39,7 +39,7 @@
   * [Affection Calculator \[WIP\]](karuta-utilities/character-tools/affection-calculator-wip.md)
 * [User Utilities](karuta-utilities/user-utilities/README.md)
   * [Vote Calculator](karuta-utilities/user-utilities/vote-calculator.md)
-  * [Daily Reward Solver](karuta-utilities/user-utilities/daily-reward-solver.md)
+  * [Daily Quiz Solver](karuta-utilities/user-utilities/daily-reward-solver.md)
   * [Embed Extractor](karuta-utilities/user-utilities/embed-extractor.md)
   * [Job Board Extended View](karuta-utilities/user-utilities/job-board-extended-view.md)
 * [Card Collection Utilities](karuta-utilities/card-collection-utilities/README.md)
