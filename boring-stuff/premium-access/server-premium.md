@@ -54,3 +54,5 @@ This offer only applies when your server has less than 3 days of Premium Access 
 For owners of servers with Server Premium that are **NOT** eligible for the Small Server Premium discount, you can now receive complementary Personal Premium access instead! That's 50% of your subscription's value given to you for free!
 
 Personal Premium allows you to access additional perks not provided with Server Premium (seen below), and also allows you to access Premium features anywhere! For clan shoguns, Personal Premium allows you to purchase the Shogun Pass, which provides a myriad of useful and powerful clan features!
+
+To claim this offer, simply run "leg premium" and head to the Server Premium page.
