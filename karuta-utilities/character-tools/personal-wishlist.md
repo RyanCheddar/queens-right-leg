@@ -29,3 +29,7 @@ Don't know what a Character UUID is? Head here: [What's a Character UUID?](../..
 {% hint style="info" %}
 You can be notified when a character on any of your Personal Wishlists appears on the [Leg Marketplace](../../karuta-services/leg-marketplace.md) by enabling marketplace\_notif in your [User Feature Configuration (leg userconfig)](../../bot-management/user-feature-configuration/)
 {% endhint %}
+
+{% hint style="success" %}
+Server Owners: If you want to delete the personal wishlist of users who are no longer in your server, run `leg wishlistclearadmin` to clear these users' wishlists, so you'll stop getting broken pings for no reason!
+{% endhint %}
