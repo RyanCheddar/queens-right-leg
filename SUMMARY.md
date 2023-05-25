@@ -13,6 +13,7 @@
   * [Server Premium](boring-stuff/premium-access/server-premium.md)
   * [Shogun Pass](boring-stuff/premium-access/shogun-pass.md)
   * [Premium FAQ](boring-stuff/premium-access/premium-faq.md)
+  * [Shogun Pass FAQ](boring-stuff/premium-access/premium-faq-1.md)
   * [How to Buy/Redeem](boring-stuff/premium-access/how-to-buy.md)
 * [Command List](boring-stuff/command-list.md)
 
