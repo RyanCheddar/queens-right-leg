@@ -13,7 +13,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 * No "\[FREE ANALYSIS]" message for drop analysis
 * Higher resolution and less obtrusive watermark in [Tile View (Collection Viewer)](../../karuta-utilities/card-collection-utilities/collection-viewer.md)
 * Higher resolution and less obtrusive watermark in [Mass Frame Tester](../../karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)
-* Accelerated member fetching in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md)
+* Accelerated member fetching & Saving Preferred Settings in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md)
 * Special features in [Frame Tester](../../karuta-utilities/card-utilities/frame-tester/)/[Mass Frame Tester](../../karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)
 * Higher resolution in [Dye Tester](../../karuta-utilities/dye-utilities/dye-tester.md)
 * Pixel-level position adjustment for [Card 3D-ifier](../../karuta-utilities/card-utilities/card-3d-ifier.md)

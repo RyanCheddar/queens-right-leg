@@ -4,6 +4,10 @@ description: Get access to powerful additional clan-focused features!
 
 # Shogun Pass
 
+{% hint style="info" %}
+The Shogun Pass is currently work in progress and is missing a lot of features it will have in its final release! As such, it is currently provided for free to ALL Personal Premium users.
+{% endhint %}
+
 The Shogun Pass is an additional add-on you can purchase that will give you access to a bunch of cool clan-focused features!
 
 {% hint style="warning" %}

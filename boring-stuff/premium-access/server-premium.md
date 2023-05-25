@@ -28,12 +28,6 @@ Extra 30 days when buying 180 days at once using USD!
 
 Payment with :tickets: tickets is possible, but price will be dependent on market price (Ticket to Gem Price).
 
-### 🎉 Small Server Premium discount
-
-For servers with less than 500 members, you can get Server Premium with a 50% discount! This means a month of Server Premium would be only $2.5 or 625 💎!
-
-This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
-
 {% hint style="warning" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) may not be given to your members when you buy Server Premium.
 
@@ -44,4 +38,19 @@ Perk that are affected by this include:
 * Ability to create Promoted Auctions on the Leg Marketplace.
 * Ability to set a Leg Marketplace auction's end time to more than 2 weeks.
 * Personal Wishlist Syncing, both to and from other servers)
+* Saving Preferred Settings in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md).
 {% endhint %}
+
+## ⭐️ Server Premium Offers and Discounts ⭐️
+
+### 🎉 Small Server Premium discount
+
+For servers with less than 500 members, you can get Server Premium with a 50% discount! This means a month of Server Premium would be only $2.5 or 625 💎!
+
+This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
+
+### 🎁 \[NEW] Complementary Personal Premium for Premium Server Owners
+
+For owners of servers with Server Premium that are **NOT** eligible for the Small Server Premium discount, you can now receive complementary Personal Premium access instead! That's 50% of your subscription's value given to you for free!
+
+Personal Premium allows you to access additional perks not provided with Server Premium (seen below), and also allows you to access Premium features anywhere! For clan shoguns, Personal Premium allows you to purchase the Shogun Pass, which provides a myriad of useful and powerful clan features!
