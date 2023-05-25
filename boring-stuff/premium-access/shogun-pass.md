@@ -19,7 +19,7 @@ If you do not have Personal Premium, but you do have a server with Server Premiu
 
 ## Karuta Perks
 
-* Ultra-fast member fetching time in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md).
+* Faster member fetching and Multi-Clan Merging in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md).
 
 ### Price of Shogun Pass: $1.5 / 375 💎 a month <a href="#price-of-server-premium-usd5-1250-a-month" id="price-of-server-premium-usd5-1250-a-month"></a>
 
