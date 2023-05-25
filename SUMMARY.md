@@ -49,6 +49,8 @@
   * [Worker Viewer](karuta-utilities/card-collection-utilities/worker-viewer.md)
   * [Spreadsheet Utility](karuta-utilities/card-collection-utilities/spreadsheet-utility.md)
   * [Card Filter](karuta-utilities/card-collection-utilities/card-filter.md)
+* [Clan Utilities](karuta-utilities/clan-utilities/README.md)
+  * [Clan Viewer](karuta-utilities/clan-utilities/clan-viewer.md)
 * [Statistics and Data](karuta-utilities/statistics-and-data/README.md)
   * [Best Base Value Finder](karuta-utilities/statistics-and-data/best-base-value-finder.md)
   * [Edition Schedules](karuta-utilities/statistics-and-data/edition-schedules.md)
