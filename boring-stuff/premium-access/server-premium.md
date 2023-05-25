@@ -28,11 +28,11 @@ Extra 30 days when buying 180 days at once using USD!
 
 Payment with :tickets: tickets is possible, but price will be dependent on market price (Ticket to Gem Price).
 
-### \[NEW] Small Server Premium discount
+### 🎉 Small Server Premium discount
 
-For servers with less than 500 members, you can get Server Premium for only **$2.5** a month when paying via USD. (50% discount!)
+For servers with less than 500 members, you can get Server Premium with a 50% discount! This means a month of Server Premium would be only $2.5 or 625 💎!
 
-This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all).
+This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
 
 {% hint style="warning" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) may not be given to your members when you buy Server Premium.
