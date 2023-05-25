@@ -4,7 +4,7 @@ description: Get access to powerful additional clan-focused features!
 
 # Shogun Pass
 
-The Shogun Pass is an additional add-on you can purchase, that will give you access to a bunch of cool clan-focused features!
+The Shogun Pass is an additional add-on you can purchase that will give you access to a bunch of cool clan-focused features!
 
 {% hint style="warning" %}
 To use the Shogun Pass, you must also have Personal Premium. The Shogun Pass is an add-on for Personal Premium and cannot be used standalone.
