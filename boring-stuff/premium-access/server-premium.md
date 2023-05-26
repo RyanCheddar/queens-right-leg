@@ -29,7 +29,7 @@ Extra 30 days when buying 180 days at once using USD!
 Payment with :tickets: tickets is possible, but price will be dependent on market price (Ticket to Gem Price).
 
 {% hint style="warning" %}
-Some perks of Personal Premium that apply everywhere (i.e. not just in your server) may not be given to your members when you buy Server Premium.
+Some perks of Personal Premium that apply everywhere (i.e. not just in your server) or provide functionality that goes beyond your server may not be given to your members when you buy Server Premium.
 
 Perk that are affected by this include:
 
