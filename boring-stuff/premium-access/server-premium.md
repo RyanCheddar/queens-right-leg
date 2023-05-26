@@ -37,8 +37,8 @@ Perk that are affected by this include:
 * Ability to reduce a running Leg Marketplace auction's duration to 3 days.
 * Ability to create Promoted Auctions on the Leg Marketplace.
 * Ability to set a Leg Marketplace auction's end time to more than 2 weeks.
-* Personal Wishlist Syncing, both to and from other servers)
-* Saving Preferred Settings in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md).
+* Personal Wishlist Syncing, both to and from other servers.
+* Unlimited accelerated member fetching & Saving Preferred Settings in [Clan Viewer](../../karuta-utilities/clan-utilities/clan-viewer.md).
 {% endhint %}
 
 ## ⭐️ Server Premium Offers and Discounts ⭐️
