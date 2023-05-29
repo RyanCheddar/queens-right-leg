@@ -4,7 +4,8 @@
 2. Do not intentionally strain Leg and cause him to function improperly.
 3. Do not automate interactions with Leg.
 4. Any type of bots, including Discord Bots, are not allowed to scrape Leg's database through any means.\
-   (For real, get your own)
+   (For real, get your own.)\
+   (Building functionality on top of Leg commands is allowed, however.)
 5. Directly monetizing access to Leg is not allowed.\
    (a.k.a. Locking Leg behind a fee in your server. Giving access to Leg for Server Boosters or Server Supporters is allowed **as long as it's not the only benefit**.)
 6. Monetizing the Shogun Pass is not allowed.\

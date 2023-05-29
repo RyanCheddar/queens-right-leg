@@ -5,7 +5,7 @@ description: Find paths that let you finish your date easily!
 # Date Solver (Beta)
 
 {% hint style="info" %}
-Date Solver is still in Beta. You can disable/enable it with:\
+Date Solver is still in Beta. You can enable/disable it with:\
 \- "[leg userconfig](../bot-management/user-feature-configuration/) date\_solver true/false" (Users)\
 \- "[leg featureset](../bot-management/server-feature-configuration/) date\_solver true/false" (Servers)
 {% endhint %}
