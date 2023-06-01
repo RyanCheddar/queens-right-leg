@@ -19,6 +19,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 * Pixel-level position adjustment for [Card 3D-ifier](../../karuta-utilities/card-utilities/card-3d-ifier.md)
 * More responsive "Next action arrow" in [Date Solver](../../karuta-utilities/date-solver.md)
 * More [Personal Wishlist](../../karuta-utilities/character-tools/personal-wishlist.md) slots (2 > 60)
+* Ability to add card series into [Personal Wishlist](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/383/karuta-utilities/character-tools/personal-wishlist)
 * Ability to view non-cached Trend data ([Character Wishlist](../../karuta-utilities/statistics-and-data/character-wishlist-trends.md) & [Drop Trends](../../karuta-utilities/statistics-and-data/drop-trends.md))
 * Ability to reduce a running Leg Marketplace auction's duration to 3 days.
 * Ability to create Promoted Auctions on the Leg Marketplace.
