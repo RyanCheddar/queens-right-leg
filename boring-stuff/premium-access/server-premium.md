@@ -16,6 +16,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Higher drop quota before [Massdrop Mode](broken-reference) automatically enables (14 drops/3 minutes/channel > 30 drops)
 * [Wishlist Count Notifications](../../admin-management/drop-notifications/wishlist-count-notifications.md) (Ping roles when a drop has a character over x wishlist!) (Max 30)
 * [Special Print Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications-1.md) (Ping roles when a drop contains a low/mid print card)
+* 25 [Personal Wishlist](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/386/karuta-utilities/character-tools/personal-wishlist) slots for server members
 * Increased [Dropboard](../../admin-management/dropboards.md) Limit (1 Dropboard > 15)
 * Increased [Wishlist Drop Notifications](../../admin-management/drop-notifications/wishlist-drop-notifications.md) Limit (1 Role > 30)
 * Increased [Server Drop Notifications](../../admin-management/drop-notifications/server-drop-notifications.md) Limit (1 Role > 30)
@@ -34,6 +35,7 @@ Some perks of Personal Premium that apply everywhere (i.e. not just in your serv
 Perk that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
+* Increased [Personal Wishlist](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/386/karuta-utilities/character-tools/personal-wishlist) slots (Only 25 are provided instead of 50)
 * Ability to reduce a running Leg Marketplace auction's duration to 3 days.
 * Ability to create Promoted Auctions on the Leg Marketplace.
 * Ability to set a Leg Marketplace auction's end time to more than 2 weeks.
