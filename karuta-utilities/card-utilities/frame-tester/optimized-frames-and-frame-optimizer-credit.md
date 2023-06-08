@@ -6,9 +6,9 @@ description: Frames specifically optimized for Leg & the people who optimized th
 
 While Leg can automatically process new frames to make them ready for frame tester, these automatically processed frame images usually look pretty bad.&#x20;
 
-Frame Optimizers help make frame tester better by optimizing Karuta frames to work great with it. You can identify optimized frames by the "Queen's Right Leg" text placed on the print and card code sections of the frames.
+Optimized frames are instead frames that have been manually edited by someone to look great in Frame Tester. You can identify optimized frames by the "Queen's Right Leg" text placed on the print and card code sections of the frames.
 
-This page serves to credit these Frame Optimizers, showing you the people who made certain frames great.
+This page serves to list these optimized frames and credit the Frame Optimizers that made them possible.
 
 ### All Optimized Frames & Who Optimized Them
 
