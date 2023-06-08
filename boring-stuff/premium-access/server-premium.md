@@ -35,7 +35,7 @@ Some perks of Personal Premium that apply everywhere (i.e. not just in your serv
 Perk that are affected by this include:
 
 * Increased Reminder slots (Ephemeral Reminder Slots are provided instead)
-* Increased [Personal Wishlist](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/386/karuta-utilities/character-tools/personal-wishlist) slots (Only 25 are provided instead of 50)
+* Increased Personal Wishlist slots (Only 25 are provided instead of 50)
 * Ability to reduce a running Leg Marketplace auction's duration to 3 days.
 * Ability to create Promoted Auctions on the Leg Marketplace.
 * Ability to set a Leg Marketplace auction's end time to more than 2 weeks.

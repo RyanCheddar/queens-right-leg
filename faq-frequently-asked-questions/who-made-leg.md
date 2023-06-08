@@ -6,7 +6,7 @@
 * Did nearly everything to be honest
 * Luke simp
 
-#### Queen @Queen#2222
+#### Queen @queen2222
 
 * Namesake of Leg
 * Artist for all original assets in Leg
