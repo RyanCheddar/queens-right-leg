@@ -63,7 +63,7 @@
     * [Frame List](karuta-utilities/card-utilities/frame-tester/frame-list.md)
     * [Single Frame Tester](karuta-utilities/card-utilities/frame-tester/single-frame-tester.md)
     * [Mass Frame Tester](karuta-utilities/card-utilities/frame-tester/mass-frame-tester.md)
-    * [Frame Optimizers](karuta-utilities/card-utilities/frame-tester/frame-optimizers.md)
+    * [Optimized Frames & Frame Optimizer Credit](karuta-utilities/card-utilities/frame-tester/optimized-frames-and-frame-optimizer-credit.md)
   * [Card 3D-ifier](karuta-utilities/card-utilities/card-3d-ifier.md)
 * [Date Solver (Beta)](karuta-utilities/date-solver.md)
 

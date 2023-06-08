@@ -16,8 +16,5 @@ Embed Extractor requires you to [reply](../../faq-frequently-asked-questions/how
 
 ### Supported Karuta Embeds
 
-| Embed Name             | Supported Functionality                                                       |
-| ---------------------- | ----------------------------------------------------------------------------- |
-| Card Details (kv/kci)  | Copying Card Code / Full Card Info / Card Owner ID / Grabber ID / Sketcher ID |
-| Character Lookup (klu) | Copying Koibito ID                                                            |
+<table><thead><tr><th width="204.8513540770441">Embed Name</th><th>Supported Functionality</th></tr></thead><tbody><tr><td>Card Details (kv/kci)</td><td>Copying Card Code / Full Card Info / Card Owner ID / Grabber ID / Sketcher ID</td></tr><tr><td>Character Lookup (klu)</td><td>Copying Koibito ID</td></tr></tbody></table>
 
