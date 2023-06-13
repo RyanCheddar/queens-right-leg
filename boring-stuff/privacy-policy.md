@@ -55,7 +55,7 @@ Here are quick rundowns of what information Leg processes and stores, and other 
 
 ### Purchasing Premium access with Tebex (IRL Money)
 
-By purchasing Premium access with Tebex, @RyanC#5785 will receive the following sensitive information:
+By purchasing Premium access with Tebex, the developers of Leg will receive the following sensitive information:
 
 * Payment Method used
 * Amount of money transacted
@@ -112,5 +112,5 @@ These logs contain the time you ran a command, your username and ID, the command
 
 Messages containing Leg's syntax but do not correspond to actual commands may also be stored. If your server uses a common syntax (e.g. "l"), this might happen more frequently.
 
-These logs are wiped during bot restarts, and are not accessed unless necessary. These logs cannot be accessed by anyone other than @RyanC#5785.
+These logs are wiped during bot restarts, and are not accessed unless necessary. These logs cannot be accessed by anyone other than the developers.
 {% endhint %}
