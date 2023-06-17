@@ -5,7 +5,7 @@ There are two ways to buy Premium.
 [Buying with USD](https://ryan-46.gitbook.io/queens-right-leg/boring-stuff/premium-access/buying-premium#buying-with-usd) and [Buying with Karuta currencies](how-to-buy.md#buying-with-tickets)
 
 {% hint style="info" %}
-Hey! As a heads up, there is now a 7-day Personal Premium trial available in the Tebex store. Try before you buy!
+Hey! As a heads up, there is now a 7-day Personal Premium + Shogun Pass trial available in the Tebex store. Try before you buy!
 {% endhint %}
 
 ## Buying with USD

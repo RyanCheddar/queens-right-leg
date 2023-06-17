@@ -32,3 +32,9 @@ If you do not have Personal Premium, but you do have a server with Server Premiu
 Payment with ​🎟 tickets is possible, but price will be dependent on market price (Ticket to Gem Price).
 
 Remember to also account for the price of Personal Premium as well. The Shogun Pass is an add-on to Personal Premium and CANNOT be used standalone.
+
+{% hint style="success" %}
+Did you know: There is a Personal Premium trial package on the Tebex store, which also lets you try out the features of the Shogun Pass in addition to Personal Premium?\
+\
+You can start your trial here: [https://store.leg.ryansbakery.dev/category/premium](https://store.leg.ryansbakery.dev/category/premium)
+{% endhint %}
