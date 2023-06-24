@@ -23,11 +23,9 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Increased [Special Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications.md) Limit (1 Role > 30)
 * Role Pinging in [Dropboards](../../admin-management/dropboards.md)
 
-### Price of Server Premium: $5 / 1250 💎 a month
+### Price of Server Premium: $5 / 1250 💎 / 68 🎟️ a month
 
 Extra 30 days when buying 180 days at once using USD!
-
-Payment with :tickets: tickets is possible, but price will be dependent on market price (Ticket to Gem Price).
 
 {% hint style="warning" %}
 Some perks of Personal Premium that apply everywhere (i.e. not just in your server) or provide functionality that goes beyond your server may not be given to your members when you buy Server Premium.
@@ -47,7 +45,7 @@ Perk that are affected by this include:
 
 ### 🎉 Small Server Premium discount
 
-For servers with less than 500 members, you can get Server Premium with a 50% discount! This means a month of Server Premium would be only $2.5 or 625 💎!
+For servers with less than 500 members, you can get Server Premium with a 50% discount! This applies regardless of what currency you use!
 
 This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
 
