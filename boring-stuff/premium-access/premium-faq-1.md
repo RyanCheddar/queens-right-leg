@@ -8,8 +8,8 @@ description: Common questions regarding Shogun Pass
 
 The instructions for how to buy Shogun Pass are about the same as buying Premium Access. You just need to follow some instructions differently if needed.
 
-{% content-ref url="../how-to-buy.md" %}
-[how-to-buy.md](../how-to-buy.md)
+{% content-ref url="how-to-buy.md" %}
+[how-to-buy.md](how-to-buy.md)
 {% endcontent-ref %}
 
 ### What can I use to buy the Shogun Pass?
@@ -46,7 +46,7 @@ If you purchase the Shogun Pass on Tebex, you are instantly granted the Shogun P
 
 Before purchasing the Shogun Pass, you should first familiarize yourself with what it actually does first. For most users, Premium Access is already very enough for their needs.
 
-If you are buying through Tebex, refer to the [Terms of Service](../../leg-terms-of-service.md).
+If you are buying through Tebex, refer to the [Terms of Service](../leg-terms-of-service.md).
 
 If you are buying using Karuta currencies, you can request for a refund within 24 hours after purchase. These requests should be sent through the [Support Server](https://discord.gg/SRWDAk7VnN).
 

@@ -38,4 +38,6 @@ To apply for the Creator Program, send a DM to ModMail in Leg Community (Our Sup
 * Proof that you meet our eligibility requirements.
 * What you want your creator code to be.
 * How you want to use the revenue you earn.
+
+You should also create a Tebex account first, and send your wallet reference ID in ModMail. Instructions here: [https://docs.tebex.io/store/tebex-control-panel/engagement/creator-codes#how-do-creators-get-a-wallet](https://docs.tebex.io/store/tebex-control-panel/engagement/creator-codes#how-do-creators-get-a-wallet)
 {% endhint %}
