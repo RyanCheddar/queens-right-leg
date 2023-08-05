@@ -11,10 +11,11 @@
 * [Premium Access](boring-stuff/premium-access/README.md)
   * [Personal Premium](boring-stuff/premium-access/personal-premium.md)
   * [Server Premium](boring-stuff/premium-access/server-premium.md)
-  * [Shogun Pass](boring-stuff/premium-access/shogun-pass.md)
   * [Premium FAQ](boring-stuff/premium-access/premium-faq.md)
-  * [Shogun Pass FAQ](boring-stuff/premium-access/premium-faq-1.md)
+  * [Shogun Pass](boring-stuff/premium-access/shogun-pass/README.md)
+    * [Shogun Pass FAQ](boring-stuff/premium-access/shogun-pass/premium-faq.md)
   * [How to Buy/Redeem](boring-stuff/premium-access/how-to-buy.md)
+  * [Creator Program](boring-stuff/premium-access/creator-program.md)
 * [Command List](boring-stuff/command-list.md)
 
 ## Useful Utilities

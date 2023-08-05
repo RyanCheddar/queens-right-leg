@@ -15,5 +15,5 @@ To use Clan Swear Noticeboard for a clan where you're not the shogun, use "leg k
 {% endhint %}
 
 {% hint style="info" %}
-⭐️ The Clan Swear Noticeboard is a [Shogun Pass](../../boring-stuff/premium-access/shogun-pass.md) feature!
+⭐️ The Clan Swear Noticeboard is a [Shogun Pass](../../boring-stuff/premium-access/shogun-pass/) feature!
 {% endhint %}
