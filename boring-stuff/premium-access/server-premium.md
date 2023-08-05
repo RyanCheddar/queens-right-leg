@@ -49,7 +49,7 @@ For servers with less than 500 members, you can get Server Premium with a 50% di
 
 This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
 
-### 🎁 \[NEW] Complementary Personal Premium for Premium Server Owners
+### 🎁 Complementary Personal Premium for Server Owners
 
 For owners of servers with Server Premium that are **NOT** eligible for the Small Server Premium discount, you can now receive complementary Personal Premium access instead! That's 50% of your subscription's value given to you for free!
 
