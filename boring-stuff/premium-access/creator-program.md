@@ -6,6 +6,10 @@ description: >-
 
 # Creator Program
 
+{% hint style="warning" %}
+Karuta purchases are currently not eligible for the Creator Program, but they will be soon!
+{% endhint %}
+
 Are you a Karuta Discord owner or someone who makes content on Youtube (or other platforms)?
 
 If yes, you might be interested in joining Leg's Creator Program! By joining the program, you get a (customizable) creator code that you can share with your members/audience, which you can use to offer discounts back to them or earn a cut from their purchases!
