@@ -43,13 +43,13 @@ Perk that are affected by this include:
 
 ## ⭐️ Server Premium Offers and Discounts ⭐️
 
-### 🎉 Small Server Premium discount
+### 🎉 Small Server Premium discount (<500 Members)
 
 For servers with less than 500 members, you can get Server Premium with a 50% discount! This applies regardless of what currency you use!
 
 This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
 
-### 🎁 Complementary Personal Premium for Server Owners
+### 🎁 Complementary Personal Premium for Server Owners (>500 Members)
 
 For owners of servers with Server Premium that are **NOT** eligible for the Small Server Premium discount, you can now receive complementary Personal Premium access instead! That's 50% of your subscription's value given to you for free!
 
