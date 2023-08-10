@@ -18,19 +18,9 @@ If yes, you might be interested in joining Leg's Creator Program! By joining the
 
 Once you join the program, you will receive a creator code that you can share around to anyone who might want to purchase Leg's Premium Access.
 
-If someone purchases Premium Access using your code, you receive a 5% cut from their purchase, which you can give back to the customer as a discount, or you can keep it for yourself.
+If someone purchases Premium Access using your code, you receive a 2% cut from their purchase, and they also receive a 5% discount from your code.
 
-If 5 or more unique users have used your code, this cut increases to 7%. If 10 or more are, the cut increases to 8%.
-
-Additionally, your creator code provides anyone who uses it with a baseline discount of 5%.
-
-{% hint style="info" %}
-For example: Let's say you have previously had 6 users use your creator code. This means you have a 7% cut from the purchase.
-
-You've decided to give 2% of that cut back to users, and keep the remaining 5%.
-
-Now, when a user uses your code, they'll receive a 7% discount, and you'll get 5% of their purchase amount.
-{% endhint %}
+If more than 5 unique users have used your code previously, your cut increases to 5%.
 
 ### Eligibility
 
