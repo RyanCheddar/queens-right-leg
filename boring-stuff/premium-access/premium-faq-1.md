@@ -4,6 +4,10 @@ description: Common questions regarding Shogun Pass
 
 # Shogun Pass FAQ
 
+{% hint style="info" %}
+Shogun Pass is not available for purchase at the moment, as it is currently free for all users with Personal Premium.
+{% endhint %}
+
 ### How do I buy the Shogun Pass with USD/Karuta currencies?
 
 The instructions for how to buy Shogun Pass are about the same as buying Premium Access. You just need to follow some instructions differently if needed.
