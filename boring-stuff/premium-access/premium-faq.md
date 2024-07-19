@@ -46,13 +46,15 @@ Note that if you do receive a refund, it will likely only be a one-time courtesy
 
 ### How can I use USD to buy Server Premium, even if I'm not the server owner?
 
-The easiest way is to just have the owner transfer server ownership to yourself, then you can transfer it back once you have redeemed the premium.
-
-If that isn't possible for any (probably valid) reasons, ask the server owner of your server to DM @RyanC#5785 with the following message:
+Ask the server owner of your server to DM @ryansbakery.dev on Discord with the following message:
 
 > I authorize \[Your Name] to purchase Premium access in the bot Queen's Right Leg using USD for my server (\[Server Name] - \[Server ID]), and I acknowledge that in the event of a chargeback or a payment dispute, I accept any repercussions or consequences indicted on me or my server, including but not limited to a permanent blacklist from the bot Queen's Right Leg.
 
-This only needs to be done once. After this is done, you can purchase however many days you need on Tebex, then DM @RyanC#5785 to redeem your tokens into time for your server.
+After this is done, you will be able to access "leg premium" on the server. This authorization needs to be redone if the server owner changes.
+
+{% hint style="info" %}
+Users who are authorized to purchase Premium using USD will also be able to redeem the complementary Personal Premium.
+{% endhint %}
 
 {% hint style="danger" %}
 In the event that the purchaser issues a chargeback or any issues occur with their payment, by authorizing the purchaser with this statement, the server owner accepts that any of the following may occur, listed in no particular order:
