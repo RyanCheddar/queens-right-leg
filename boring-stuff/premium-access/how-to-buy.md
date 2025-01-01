@@ -58,6 +58,10 @@ You can do "leg premium" to see the duration of your premium, or do "leg premium
 
 ## Buying with Karuta Currencies
 
+{% hint style="warning" %}
+Purchasing Leg Premium with Karuta currency is currently on pause. It is still possible to purchase Leg Premium with Tebex.
+{% endhint %}
+
 Buying with Karuta Currencies is also another way you can support the development for Leg, with no real-world cost!
 
 First, join the Support Server via the following link.
