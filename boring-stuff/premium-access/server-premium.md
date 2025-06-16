@@ -7,7 +7,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * [Personal Premium](personal-premium.md) for all server members\
   (As long as they're using Leg in your server)\
   \* Exceptions apply
-* \+5 Ephemeral Reminder Slots for server members\
+* +5 Ephemeral Reminder Slots for server members\
   (Ephemeral Reminder Slots can only be used in Date Solver, but they bypass the normal per-user Reminder slot limit, even if a user doesn't have Personal Premium.)
 
 ### Karuta-related Perks
@@ -16,7 +16,7 @@ Server Premium is Premium Access for entire servers. The perks of Server Premium
 * Higher drop quota before [Massdrop Mode](broken-reference) automatically enables (14 drops/3 minutes/channel > 30 drops)
 * [Wishlist Count Notifications](../../admin-management/drop-notifications/wishlist-count-notifications.md) (Ping roles when a drop has a character over x wishlist!) (Max 30)
 * [Special Print Drop Notifications](../../admin-management/drop-notifications/special-drop-notifications-1.md) (Ping roles when a drop contains a low/mid print card)
-* 25 [Personal Wishlist](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/386/karuta-utilities/character-tools/personal-wishlist) slots for server members
+* 25 [Personal Wishlist](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/~/changes/386/karuta-utilities/character-tools/personal-wishlist) slots for server members
 * Increased [Dropboard](../../admin-management/dropboards.md) Limit (1 Dropboard > 15)
 * Increased [Wishlist Drop Notifications](../../admin-management/drop-notifications/wishlist-drop-notifications.md) Limit (1 Role > 30)
 * Increased [Server Drop Notifications](../../admin-management/drop-notifications/server-drop-notifications.md) Limit (1 Role > 30)
@@ -49,10 +49,12 @@ For servers with less than 500 members, you can get Server Premium with a 50% di
 
 This offer only applies when your server has less than 3 days of Premium Access (or no Premium at all). If you are purchasing Premium with Karuta currency, you must specify that you wish to use the discount + provide proof that your server is eligible (e.g. using a server invite).
 
+Servers that exceed 500 members will keep whatever Premium duration they have, but will no longer be able to use the discount.
+
 ### 🎁 Complementary Personal Premium for Server Owners (>500 Members)
 
-For owners of servers with Server Premium that are **NOT** eligible for the Small Server Premium discount, you can now receive complementary Personal Premium access instead! That's 50% of your subscription's value given to you for free!
+For owners of servers with Server Premium that are **NOT** eligible for the Small Server Premium discount, you will receive complementary Personal Premium access instead! That's 50% of your subscription's value given to you for free!
 
-Personal Premium allows you to access additional perks not provided with Server Premium (seen below), and also allows you to access Premium features anywhere! For clan shoguns, Personal Premium allows you to purchase the Shogun Pass, which provides a myriad of useful and powerful clan features!
+Personal Premium allows you to access additional perks not provided with Server Premium (see above), and also allows you to access Premium features anywhere! For clan shoguns, you will also gain access to a myriad of useful and powerful clan management features!
 
 To claim this offer, simply run "leg premium" and head to the Server Premium page.
