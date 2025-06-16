@@ -5,7 +5,7 @@ description: Get access to powerful additional clan-focused features!
 # Shogun Pass
 
 {% hint style="info" %}
-The Shogun Pass is no longer a planned feature and will be merged into Personal Premium as complementary perks.
+The Shogun Pass is no longer a planned feature. Perks of the Shogun Pass will be provided for free to users with Personal Premium.
 {% endhint %}
 
 The Shogun Pass is an additional add-on you can purchase that will give you access to a bunch of cool clan-focused features!
