@@ -1,0 +1,3 @@
+"scripts": {
+"docs:build": "npm run docs:prepare && rm -rf _book && gitbook build"
+}
