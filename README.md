@@ -1,7 +1,3 @@
----
-description: Welcome to the documentation for the Discord bot Queen's Right Leg!
----
-
 # Welcome!
 
 Here, you will find everything you need to know about Leg. Things like what commands are available, how to customize the bot to do what you want, other good-to-know information and etc.
