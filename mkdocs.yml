@@ -1,1 +1,3 @@
 site_name: Queen's Right Leg Documentation
+themes:
+  name: gitbook
