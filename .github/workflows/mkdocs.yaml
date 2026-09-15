@@ -1,4 +1,4 @@
-name: ci 
+name: Mkdocs Deploy
 on:
   push:
     branches:
