@@ -1,3 +1,5 @@
 site_name: Queen's Right Leg Documentation
 theme:
   name: gitbook
+nav:
+  - Boring Stuff: boring-stuff/
