@@ -7,11 +7,7 @@
    (For real, get your own.)  
    (Building functionality on top of Leg commands is allowed, however.)  
 5. Directly monetizing access to Leg is not allowed.  
-   (a.k.a. Locking Leg behind a fee in your server. Giving access to Leg for Server Boosters or Server Supporters is allowed **as long as it's not the only benefit**.)  
-6. Monetizing the Shogun Pass is not allowed.  
-   (Do not provide services that allow others to _directly_ gain access to the Shogun Pass' functionality without purchasing it \[e.g. Account Sharing].  
-     
-   Sharing information or calculations provided by the Shogun Pass is allowed, however.)  
+   (a.k.a. Locking Leg behind a fee in your server. Giving access to Leg for Server Boosters or Server Supporters is allowed **as long as it's not the only benefit**. Sharing Premium-locked information is allowed as long as it's not automated.)  
 
 #### Premium Access & Shogun Pass ToS
 
@@ -21,9 +17,9 @@
       - If you did not receive any tokens in your account.  
 
 2. Chargebacks will be handled and disputed by Tebex, and may lead to you being blacklisted from using Leg.  
-3. Premium access & the Shogun Pass are absolutely non-transferrable between servers/users.  
-4. Price adjustments might happen without prior notice, and a refund may not be given to preexisting Premium users or Shogun Pass users.  
-5. In the case of a price adjustment, if you purchased premium access with real money and used Tebex's auto-renewal feature, you may be eligible for grandfathered pricing if the new price is higher than the old price. Grandfathered pricing is not available for the Shogun Pass.  
+3. Premium access are absolutely non-transferrable between servers/users.  
+4. Price adjustments might happen without prior notice, and a refund may not be given to preexisting Premium users.  
+5. In the case of a price adjustment, if you purchased premium access with real money and used Tebex's auto-renewal feature, you may be eligible for grandfathered pricing if the new price is higher than the old price. 
 
 !!! danger  
     Violating any of Leg's ToS will result in being blacklisted from accessing Leg.  
