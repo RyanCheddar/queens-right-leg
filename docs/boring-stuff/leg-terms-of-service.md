@@ -16,13 +16,10 @@
 #### Premium Access & Shogun Pass ToS
 
 1. If purchasing through Tebex, refunds will only be honored if:  
-   &#x20;   **Premium Access**  
-   &#x20;         \- Premium access has not been redeemed, or  
-   &#x20;         \- If you did not receive any tokens in your account.  
-     
-   &#x20;   **Shogun Pass**  
-   &#x20;         \- You have not had the Shogun Pass for more than 1 day, or  
-   &#x20;         \- You did not receive the Shogun Pass.  
+   **Premium Access**  
+      - Premium access has not been redeemed, or  
+      - If you did not receive any tokens in your account.  
+
 2. Chargebacks will be handled and disputed by Tebex, and may lead to you being blacklisted from using Leg.  
 3. Premium access & the Shogun Pass are absolutely non-transferrable between servers/users.  
 4. Price adjustments might happen without prior notice, and a refund may not be given to preexisting Premium users or Shogun Pass users.  
