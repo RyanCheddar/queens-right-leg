@@ -1,6 +1,6 @@
 site_name: Queen's Right Leg Documentation
 theme:
-  name: gitbook
+  name: material
 nav:
   - Welcome!: README.md
   - What is Leg? Who is Leg?: what-is-leg-who-is-leg.md
