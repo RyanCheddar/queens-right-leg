@@ -11,14 +11,14 @@ Card Finder allows you to locate cards for specific characters and find their ca
 
     Aliases: "cf", "printfinder", "cardfind", "trace", "cardtrace"  
 
-    \  
+      
     By default, Card Finder only finds cards with a print number lower than 1000.  
 
 
 
     Using Print Number filtering enables you to access card codes for cards with print numbers larger than 1000 (up to 35000).  
 
-    \  
+      
     Filtering by Print Number (and by extension, accessing cards with higher print than 1000) is a [Premium](../../boring-stuff/premium-access/)-only feature.  
 
 ![Card Finder, finding Luke Pearce cards with print numbers less than 10.](<../../.gitbook/assets/image (3).png>)  
@@ -50,6 +50,6 @@ Card Finder is designed to always only show cards for a character, instead of ca
 Card Finder also launched with a card hiding functionality, for the few cards that you don't want people to bother you about, or the cards with special value to you.  
 
 !!! warning  
-    To protect players and prevent low print card sniping, Leg locks access to the card code & owner of cards that dropped less than 30 minutes ago.\  
-    \  
+    To protect players and prevent low print card sniping, Leg locks access to the card code & owner of cards that dropped less than 30 minutes ago.  
+      
     For users with Personal Premium, this restriction is 10 minutes instead.  

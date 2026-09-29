@@ -15,5 +15,5 @@ However, Massdrop Mode:
 !!! info  
     You can change the wishlist threshold of Massdrop Mode by running `leg massdrop` in a channel where Massdrop Mode is enabled.  
 
-    \  
+      
     You can also disable Drop Analysis messages by going into the threshold settings and pressing "Disable Drop Analysis Messages".  

@@ -11,8 +11,8 @@ Collection Viewer gives you a more in-depth view of your card collection than Ka
 !!! info  
     Command: "leg collectionviewer"  
 
-    Aliases: "cviewer", "bulkviewer", "cv", "burnviewer", "mbv"\  
-    \  
+    Aliases: "cviewer", "bulkviewer", "cv", "burnviewer", "mbv"  
+      
     Collection Viewer requires you to [reply](https://app.gitbook.com/s/0OfyDder0TDbYepM9qYh/\~/changes/fKx6pW5EYhSbbpq0LIXz/faq-frequently-asked-questions/how-do-i-use-reply-based-commands) to a "Card Collection" message (kc) in order for it to work.  
 
     Alternatively, you can import your Card Collection with [Spreadsheet Utility](spreadsheet-utility.md) to run Collection Viewer on your entire Card Collection!  

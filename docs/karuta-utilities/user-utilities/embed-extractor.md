@@ -9,8 +9,8 @@ Embed Extractor allows you to extract information from Karuta embeds in an easil
 !!! info  
     Command: "leg extract"  
 
-    Aliases: "code", "koibito", "copy"\  
-    \  
+    Aliases: "code", "koibito", "copy"  
+      
     Embed Extractor requires you to [reply](../../faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md) to a supported Karuta embed.  
 
 ### Supported Karuta Embeds

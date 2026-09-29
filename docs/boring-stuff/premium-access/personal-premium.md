@@ -40,6 +40,6 @@ Payment with 🎟 tickets is allowed, but price will be dependent on market pric
 You can also get Personal Premium if you server boost [Leg Community](https://discord.gg/SRWDAk7VnN)!  
 
 !!! success  
-    Did you know: There is a Personal Premium trial package on the Tebex store, which lets you try out all the features of Personal Premium?\  
-    \  
+    Did you know: There is a Personal Premium trial package on the Tebex store, which lets you try out all the features of Personal Premium?  
+      
     You can start your trial here: [https://store.leg.ryansbakery.dev/category/premium](https://store.leg.ryansbakery.dev/category/premium)  

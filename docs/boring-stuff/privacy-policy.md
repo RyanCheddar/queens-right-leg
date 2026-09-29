@@ -13,43 +13,43 @@ Here are quick rundowns of what information Leg processes and stores, and other 
 
 #### The following information are processed anonymously and are not linked to any users, Karuta cards or server:
 
-* Karuta character data\  
+* Karuta character data  
   (Name, Series, Wishlist, Aliases, Image URL, Drop statistics etc.)  
-* Karuta frames\  
+* Karuta frames  
   (Name, Image URL, Price)  
-* Drop Analytics (No. of drops globally, no. of wishlist cards dropped etc.)\  
+* Drop Analytics (No. of drops globally, no. of wishlist cards dropped etc.)  
   (Can be opted-out of by disabling Drop Analysis in "leg featureset")  
-* Anonymous error logs\  
+* Anonymous error logs  
   (Only contains information about which part of Leg is malfunctioning)  
 
 #### The following information may be linked to users/cards/servers but are not publicly viewable:
 
-* User bits\  
+* User bits  
   (Collected automatically, can be deleted by disabling _Automatic Bit Caching_ in "leg userconfig")  
-* Aliases found from any Karuta Koibito Dating Menus\  
-  (Linked to the card you use to visit)\  
-  (Collected automatically, data deleted once you open the visiting card's Card Info menu with "kci")\  
+* Aliases found from any Karuta Koibito Dating Menus  
+  (Linked to the card you use to visit)  
+  (Collected automatically, data deleted once you open the visiting card's Card Info menu with "kci")  
   (Disabled when you turn off _Enable Leg Commands_ in "leg userconfig". This will render Leg unusable for you.)  
-* Your last obtained card from Karuta\  
-  (Used by Leg to provide you automatic cached lookup when Karuta is on cooldown)\  
+* Your last obtained card from Karuta  
+  (Used by Leg to provide you automatic cached lookup when Karuta is on cooldown)  
   (Can be disabled by turning off _Enable Leg Commands_ in "leg userconfig". This will render Leg unusable for you.)  
-* Your Leg Reminders\  
+* Your Leg Reminders  
   (Deletable by manually removing all entries using "leg reminders")  
-* Personal Wishlist\  
+* Personal Wishlist  
   (Deletable by manually removing all entries using "leg wishlist")  
-* Premium access \[Personal]\  
+* Premium access \[Personal]  
   (Your Premium access information is only viewable by you.)  
-* Feature Configurations\  
+* Feature Configurations  
   (For obvious reasons, this has to be linked to you/your server.)  
-* Spreadsheet Utility Data\  
+* Spreadsheet Utility Data  
   (Not accessible by anyone else, automatically deleted 3 days after importing.)  
 
 #### The following information is linked to users/cards/servers and is publicly viewable:
 
-* User dyes\  
+* User dyes  
   (Collected only when you authorize Leg to. You can unauthorize and delete this data with "leg dyeunauth", and you can make it private with "leg userconfig dye\_public false")  
-* Premium access \[Servers]\  
-  (The duration of a server's Premium access may be viewable to all server members.)\  
+* Premium access \[Servers]  
+  (The duration of a server's Premium access may be viewable to all server members.)  
   (Personal Premium access information is not viewable by anyone other than you.)  
 
 ### Purchasing Premium access with Tebex (IRL Money)
@@ -85,7 +85,7 @@ ForgetMe will:
 
 However, ForgetMe does not:  
 
-* Delete Premium access information about you\  
+* Delete Premium access information about you  
   (This information auto-deletes once your Premium access expires and you have no remaining tokens)  
 
 #### Servers

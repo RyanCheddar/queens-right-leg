@@ -62,5 +62,5 @@ After this is done, you will be able to access "leg premium" on the server. This
     * Permanent blacklist from Leg for the server owner  
     * Premium access ban for the server  
 
-    \  
+      
     Additionally, negative consequences may also occur for the purchaser, as stipulated in the [Terms of Service](../leg-terms-of-service.md).  

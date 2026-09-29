@@ -9,8 +9,8 @@ description: >-
 !!! info  
     Command: "leg kcsnotice"  
 
-    Aliases: "kcsnotif", "kcsnoticeboard", "clanswearnotice", "clanswearnotif", "clanswearnoticeboard"\  
-    \  
+    Aliases: "kcsnotif", "kcsnoticeboard", "clanswearnotice", "clanswearnotif", "clanswearnoticeboard"  
+      
     To use Clan Swear Noticeboard for a clan where you're not the shogun, use "leg kcsnotice \[Shogun]". [This requires the shogun to authorize you first.](clan-access-authorization.md)  
 
 !!! info  

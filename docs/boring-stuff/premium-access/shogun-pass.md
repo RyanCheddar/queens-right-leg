@@ -12,7 +12,7 @@ The Shogun Pass is an additional add-on you can purchase that will give you acce
 !!! warning  
     To use the Shogun Pass, you must also have Personal Premium. The Shogun Pass is an add-on for Personal Premium and cannot be used standalone.  
 
-    \  
+      
     If you do not have Personal Premium, but you do have a server with Server Premium, you might be able to claim free Personal Premium through "leg premium"!  
 
 ## Bot Perks
@@ -30,6 +30,6 @@ Payment with ​🎟 tickets is possible, but price will be dependent on market 
 Remember to also account for the price of Personal Premium as well. The Shogun Pass is an add-on to Personal Premium and CANNOT be used standalone.  
 
 !!! success  
-    Did you know: There is a Personal Premium trial package on the Tebex store, which also lets you try out the features of the Shogun Pass in addition to Personal Premium?\  
-    \  
+    Did you know: There is a Personal Premium trial package on the Tebex store, which also lets you try out the features of the Shogun Pass in addition to Personal Premium?  
+      
     You can start your trial here: [https://store.leg.ryansbakery.dev/category/premium](https://store.leg.ryansbakery.dev/category/premium)  

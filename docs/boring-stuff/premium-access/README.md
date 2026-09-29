@@ -33,13 +33,13 @@ No matter which type of Premium you buy, you'd still be supporting the continued
 
 If you can't be bothered to pay money for a Discord bot, there are other ways you can support Leg.  
 
-* Report any issues you find in Leg to our Support Server\  
+* Report any issues you find in Leg to our Support Server  
   (This helps us find and fix problems for everyone faster.)  
-* Suggest new features/functionality for Leg\  
+* Suggest new features/functionality for Leg  
   (This gives us more ideas on what we can add to Leg in updates)  
-* Do Karuta Lookups on your drops\  
+* Do Karuta Lookups on your drops  
   (This gives Leg more data to work with!)  
-* Use [Spreadsheet Utility](../../karuta-utilities/card-collection-utilities/spreadsheet-utility.md)\  
+* Use [Spreadsheet Utility](../../karuta-utilities/card-collection-utilities/spreadsheet-utility.md)  
   (This contributes your cards to Card Finder, making Leg's database even more powerful!)  
-* Simply talk about your experience with using Leg!\  
+* Simply talk about your experience with using Leg!  
   (This gives us valuable feedback on what Leg is being used for, and how we can improve Leg for those usecases)  

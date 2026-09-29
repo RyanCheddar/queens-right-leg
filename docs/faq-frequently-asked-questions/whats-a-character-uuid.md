@@ -21,8 +21,8 @@ To do this, Leg gives all characters a UUID that allows Leg to distinguish chara
 
     Leg's own mascot also has a custom UUID.  
 
-    Queen's Right Leg · **Leg** \[leg]\  
-    \  
+    Queen's Right Leg · **Leg** \[leg]  
+      
     If you see these UUIDs appear in command examples, do not mistake them for just simply character name searches.  
 
 To find a character's UUID, look them up using "leg lu \[Character Name] / \[Character Series]"&#x20;  
