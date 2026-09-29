@@ -36,6 +36,7 @@
   * [Dye Tester](karuta-utilities/dye-utilities/dye-tester.md)
 * [Character Tools](karuta-utilities/character-tools/README.md)
   * [Cached Lookup](karuta-utilities/character-tools/cached-lookup.md)
+  * [Character Filter](karuta-utilities/character-tools/character-filter.md)
   * [Alias List](karuta-utilities/character-tools/alias-list.md)
   * [Card Finder](karuta-utilities/character-tools/card-finder.md)
   * [Personal Wishlist](karuta-utilities/character-tools/personal-wishlist.md)
