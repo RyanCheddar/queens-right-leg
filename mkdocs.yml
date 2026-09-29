@@ -3,3 +3,9 @@ theme:
   name: gitbook
 nav:
   - Boring Stuff: boring-stuff/
+  - Useful Utilities: useful-utilities/
+  - Karuta Utilities: karuta-utilities/
+  - Karuta Services: karuta-services/
+  - Bot Management: bot-management/
+  - Admin Management: admin-management/
+  - FAQ (Frequently Asked Questions): faq-frequently-asked-questions/
