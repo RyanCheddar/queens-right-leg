@@ -1,28 +1,26 @@
----
-description: View all Karuta frames at a glance
----
+---  
+description: View all Karuta frames at a glance  
+---  
 
 # Frame List
 
-The Frame List shows you every single frames available in Karuta.
+The Frame List shows you every single frames available in Karuta.  
 
-{% hint style="info" %}
-Command: "leg framelist"
+!!! info  
+    Command: "leg framelist"  
 
-Alias: "frames"
-{% endhint %}
+    Alias: "frames"  
 
-![](<../../../.gitbook/assets/image (31) (1).png>)
+![](<../../../.gitbook/assets/image (31) (1).png>)  
 
-{% hint style="info" %}
-Some frames might look broken, ugly or have incorrect text colors. This is because these frames have not been optimized for frame testing use.
-
-
-
-You can check whether a frame is optimized by looking at the Print and Card code spots. If the text "Queen's" and "Right Leg" are there, it's an optimized frame.&#x20;
+!!! info  
+    Some frames might look broken, ugly or have incorrect text colors. This is because these frames have not been optimized for frame testing use.  
 
 
 
-If not, it's auto-generated and will likely have discrepancies with how the frame looks in Karuta.
-{% endhint %}
+    You can check whether a frame is optimized by looking at the Print and Card code spots. If the text "Queen's" and "Right Leg" are there, it's an optimized frame.&#x20;  
+
+
+
+    If not, it's auto-generated and will likely have discrepancies with how the frame looks in Karuta.  
 

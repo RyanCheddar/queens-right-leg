@@ -1,17 +1,15 @@
----
-description: Change the Karuta prefix Leg listens to.
----
+---  
+description: Change the Karuta prefix Leg listens to.  
+---  
 
 # Set Karuta Prefix
 
-{% hint style="info" %}
-Command: "leg karutaprefix \[Prefix]"
-{% endhint %}
+!!! info  
+    Command: "leg karutaprefix \[Prefix]"  
 
-This prefix is what Leg listens to in order to identify commands targeted at Karuta.
+This prefix is what Leg listens to in order to identify commands targeted at Karuta.  
 
-This is mainly used for Cached Lookups and other features that intercept Karuta commands.
+This is mainly used for Cached Lookups and other features that intercept Karuta commands.  
 
-{% hint style="warning" %}
-Leg only listens to one prefix at a time. For example: If you set this to "k!", Leg won't respond when someone does "klu"
-{% endhint %}
+!!! warning  
+    Leg only listens to one prefix at a time. For example: If you set this to "k!", Leg won't respond when someone does "klu"  

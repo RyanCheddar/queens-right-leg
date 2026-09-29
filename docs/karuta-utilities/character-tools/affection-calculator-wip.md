@@ -1,9 +1,8 @@
 # Affection Calculator \[WIP]
 
-{% hint style="info" %}
-Command: "leg affcalc"
+!!! info  
+    Command: "leg affcalc"  
 
-Requires replying to a visit menu.
-{% endhint %}
+    Requires replying to a visit menu.  
 
-Affection Calculator is currently a work in progress feature.
+Affection Calculator is currently a work in progress feature.  

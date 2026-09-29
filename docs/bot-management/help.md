@@ -1,11 +1,10 @@
----
-description: A guide for Leg's commands and other tips on how to use him.
----
+---  
+description: A guide for Leg's commands and other tips on how to use him.  
+---  
 
 # Help
 
-{% hint style="info" %}
-Command: "help"
-{% endhint %}
+!!! info  
+    Command: "help"  
 
-The help command literally just links here lol
+The help command literally just links here lol  

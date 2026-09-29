@@ -1,17 +1,15 @@
 # Special Drop Notifications
 
-Special Drop Notifications allow you to ping a role when a drop contains a special event item (e.g. Festivus Bow, Egg, Flower etc.)
+Special Drop Notifications allow you to ping a role when a drop contains a special event item (e.g. Festivus Bow, Egg, Flower etc.)  
 
-{% hint style="info" %}
-Command: "leg specialnotifications" / "leg specialnotif"
+!!! info  
+    Command: "leg specialnotifications" / "leg specialnotif"  
 
-Aliases: "specialdropnotifications", "specialdropnotif", "eventdropnotifications", "eventdropnotif"
-{% endhint %}
+    Aliases: "specialdropnotifications", "specialdropnotif", "eventdropnotifications", "eventdropnotif"  
 
-{% hint style="warning" %}
-Special Drop Notifications works best when your Karuta drop mode is set to buttons.
+!!! warning  
+    Special Drop Notifications works best when your Karuta drop mode is set to buttons.  
 
-If you are using reactions and Karuta isn't adding the reactions fast enough (which might happen if too many drops are happening), notifications might become delayed or even not send entirely.
-{% endhint %}
+    If you are using reactions and Karuta isn't adding the reactions fast enough (which might happen if too many drops are happening), notifications might become delayed or even not send entirely.  
 
-![Example of the specialnotif command](<../../.gitbook/assets/image (29).png>)
+![Example of the specialnotif command](<../../.gitbook/assets/image (29).png>)  

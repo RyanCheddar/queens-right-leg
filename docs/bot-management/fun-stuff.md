@@ -1,6 +1,6 @@
----
-description: Fun commands that are fun 🤨
----
+---  
+description: Fun commands that are fun 🤨  
+---  
 
 # Fun Stuff
 
