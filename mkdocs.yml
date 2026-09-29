@@ -1,6 +1,10 @@
 site_name: Queen's Right Leg Documentation
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   - Welcome!: README.md
   - What is Leg? Who is Leg?: what-is-leg-who-is-leg.md
