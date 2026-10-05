@@ -9,7 +9,7 @@ Approximately -0% of Leg's source code and documentation is created with AI. It'
 
 # Drop Analysis with Apricot Engine  
 
-The apricot engine utilizes mainstream optical character recognition (OCR) models to enable Drop Analysis features (and other features that also rely on reading card images). Such models are further fine-tuned with Karuta drop images to enhance accuracy and speed.  
+The apricot engine utilizes open-source optical character recognition (OCR) AI models to enable Drop Analysis features (and other features that also rely on reading card images). Such models are further fine-tuned with Karuta drop images to enhance accuracy and speed.  
 
 The dataset for this use are collected from Karuta drop images automatically collected by Leg during the analysis process, and are not tied to any specific Discord users or servers.  
 
