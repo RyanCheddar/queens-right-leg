@@ -16,7 +16,7 @@ Leg will not implement any Generative AI features or features that work with Gen
 
 Any implementation of Generative AI within Leg will require substantial financial/computational resources that I do not have access to, and I am also unwilling to participate in the unethical practices the AI industry partakes in.
 
-While Karuta's Generative AI features are (seemingly) ethically developed, any Leg features requiring interaction with those features would also require some implementation of GenAI.
+While Karuta's Generative AI features are (seemingly) ethically developed, any Leg features requiring interaction with those features would also require some implementation of GenAI and will therefore not be implemented.
 
 # Leg Contributions
 
