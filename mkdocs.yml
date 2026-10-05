@@ -1,6 +1,7 @@
 site_name: Queen's Right Leg Documentation
 theme:
   name: material
+  favicon: 'img/favicon.ico'
 markdown_extensions:
   - admonition
   - pymdownx.details
