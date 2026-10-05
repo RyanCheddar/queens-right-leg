@@ -4,6 +4,9 @@ description: AI use in Leg's source code and features
 
 Approximately -0% of Leg's source code and documentation is created with AI. It's a negative number because some of Leg's source code/documentation may have been used to train mainstream AI models. Every line of Leg's code is humanly made and humanly good (or bad).
 
+!!! info  
+    Leg was created on Dec 24, 2021. That predates actual functional coding models and when the term "vibe-coding" was first coined :p (2025 according to Wikipedia)
+
 # Drop Analysis with Apricot Engine
 
 The apricot engine utilizes mainstream optical character recognition (OCR) models to enable Drop Analysis features (and other features that also rely on reading card images). Such models are further fine-tuned with Karuta drop images to enhance accuracy and speed.
