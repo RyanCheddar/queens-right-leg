@@ -1,7 +1,8 @@
 site_name: Queen's Right Leg Documentation
 theme:
   name: material
-  favicon: 'img/favicon.ico'
+  logo: img/leg_peek.png
+  favicon: img/favicon.ico
 markdown_extensions:
   - admonition
   - pymdownx.details
