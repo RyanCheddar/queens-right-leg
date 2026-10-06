@@ -17,4 +17,4 @@ Once you do the command, you'll be greeted with an interface similar to "leg fea
 
 <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> If you don't see \[Inherited], this feature was specifically changed for this channel. It will not be affected by the Global Configuration no matter what changes you make.  
 
-Changing a feature's configuration using "leg channeloverride \[type] true/false" will result in it no longer inheriting. To make it reinherit the Global Configuration, do "leg channeloverride \[true] inherit", or press "Reset Channel Config" which resets all settings to use inheritance.  
+Changing a feature's configuration using "leg channeloverride \[type] true/false" will result in it no longer inheriting. To make it reinherit the Global Configuration, do "leg channeloverride \[type] inherit", or press "Reset Channel Config" which resets all settings to use inheritance.  
