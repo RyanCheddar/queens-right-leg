@@ -2,6 +2,9 @@
 
 Here, you will find everything you need to know about Leg. Things like what commands are available, how to customize the bot to do what you want, other good-to-know information and etc.  
 
+!!! warning
+    The documentation is currently quite borked after a migration from Gitbook. Basically, Gitbook kept taking away free features until the docs were no longer sustainable.
+
 !!! info  
     In the documentation, the bot "Queen's Right Leg" will be referred to as Leg with \[he/him] pronouns.  
 
