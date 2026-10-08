@@ -2,7 +2,7 @@
 
 There are two ways to buy Premium.  
 
-[Buying with USD](https://ryan-46.gitbook.io/queens-right-leg/boring-stuff/premium-access/buying-premium#buying-with-usd) and [Buying with Karuta currencies](how-to-buy.md#buying-with-tickets)  
+[Buying with USD](buying-premium#buying-with-usd) and [Buying with Karuta currencies](how-to-buy.md#buying-with-tickets)  
 
 !!! info  
     Hey! As a heads up, there is now a 7-day Personal Premium + Shogun Pass trial available in the Tebex store. Try before you buy!  
@@ -13,7 +13,7 @@ Buying with USD directly supports the development of Leg.&#x20;
 
 To purchase with USD, head to the Tebex store here:  
 
-{% embed url="https://queens-right-leg.tebex.io" %}  
+{% embed url="https://store.leg.ryansbakery.dev/" %}  
 
 !!! warning  
     Buying Server Premium with USD is only possible if you are the server owner. If you are not the server owner, you will need to buy using tickets instead.  
