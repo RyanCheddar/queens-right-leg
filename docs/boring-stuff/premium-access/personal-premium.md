@@ -31,7 +31,7 @@ Personal Premium is Premium Access for individual users. The perks include:
 !!! info  
     Personal Premium works in all servers with Leg, even if they don't have Premium Access.  
 
-### Price of Personal Premium: $3 / 500 💎 / 22 🎟️ a month
+### Price of Personal Premium: $3 / 550 💎 / 25 🎟️ a month
 
 Extra 30 days when buying 180 days at once using USD!  
 
