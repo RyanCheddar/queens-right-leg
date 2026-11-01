@@ -21,16 +21,7 @@ Card Finder allows you to locate cards for specific characters and find their ca
       
     Filtering by Print Number (and by extension, accessing cards with higher print than 1000) is a [Premium](../../boring-stuff/premium-access/)-only feature.  
 
-![Card Finder, finding Luke Pearce cards with print numbers less than 10.](<../../.gitbook/assets/image (3).png>)  
-
-!!! warning  
-    Card Finder saves all cards, regardless of whether you disabled Leg commands.  
-
-    If you don't feel comfortable with a card showing up in Leg, you can hide it using "leg hidecard \[Card Code].  
-
-    Hidden cards stay hidden until they are unhidden by the card owner, or if they are transferred to another player.  
-
-    Hiding a card in Leg does not mean it will be hidden in other bots with similar card tracing features, for obvious reasons.  
+![Card Finder, finding Luke Pearce cards with print numbers less than 10.](<../../assets/image (3).png>)  
 
 !!! info  
     Card Finder currently listens to the following Karuta menus/interfaces:  
@@ -53,3 +44,19 @@ Card Finder also launched with a card hiding functionality, for the few cards th
     To protect players and prevent low print card sniping, Leg locks access to the card code & owner of cards that dropped less than 30 minutes ago.  
       
     For users with Personal Premium, this restriction is 10 minutes instead.  
+
+
+!!! warning  
+    Card Finder saves all cards, regardless of whether you disabled Leg commands.  
+
+    If you don't feel comfortable with a card showing up in Leg, you can hide it using "leg hidecard \[Card Code].  
+
+    Hidden cards stay hidden until they are unhidden by the card owner, or if they are transferred to another player.  
+
+    Hiding a card in Leg does not mean it will be hidden in other bots with similar card tracing features, for obvious reasons.  
+
+
+!!! warning  
+    To completely opt-out of Card Finder, use `leg cardfinderhide`.  This command will hide all your cards from Card Finder, but you will also lose access to Card Finder.  
+
+    Refer to Leg's [Privacy Policy](../../boring-stuff/privacy-policy.md) for more information.
