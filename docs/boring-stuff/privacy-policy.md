@@ -86,7 +86,11 @@ ForgetMe will:
 However, ForgetMe does not:  
 
 * Delete Premium access information about you  
-  (This information auto-deletes once your Premium access expires and you have no remaining tokens)  
+  (This information auto-deletes once your Premium access expires and you have no remaining tokens.)  
+* Sketches you have created that are saved by Sketch Viewer  
+  (This is considered public information.)  
+* Cards owned by you that are saved by Card Finder  
+  (Use `leg hidecard [Card Code]` to hide individual cards, or `leg cardfinderhide` to hide all your cards.)  
 
 #### Servers
 
@@ -100,7 +104,7 @@ The following information might be retained:
 
 After a period of not using Leg in your server (max. 180 days), all information associated to your server will be removed.  
 
-You can also request immediate data removal by contacting @RyanC#5785 on Discord.  
+You can also request immediate data removal by contacting @ryansbakery.dev on Discord.  
 
 !!! info  
     Logs about your usage of Leg commands may be stored for debugging purposes.  
@@ -110,3 +114,7 @@ You can also request immediate data removal by contacting @RyanC#5785 on Discord
     Messages containing Leg's syntax but do not correspond to actual commands may also be stored. If your server uses a common syntax (e.g. "l"), this might happen more frequently.  
 
     These logs are wiped during bot restarts, and are not accessed unless necessary. These logs cannot be accessed by anyone other than the developers.  
+
+    Messages that do not start with Leg's or Karuta's command syntax are never processed, logged, or stored by Leg.
+
+
