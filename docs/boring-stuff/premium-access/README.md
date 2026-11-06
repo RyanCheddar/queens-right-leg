@@ -13,21 +13,13 @@ No matter which type of Premium you buy, you'd still be supporting the continued
 !!! warning  
     Please do not buy Premium access for features that might come in the future. Buy it for the features that are currently available.  
 
-{% content-ref url="personal-premium.md" %}  
-[personal-premium.md](personal-premium.md)  
-{% endcontent-ref %}  
+[Personal Premium](personal-premium.md)  
 
-{% content-ref url="server-premium.md" %}  
-[server-premium.md](server-premium.md)  
-{% endcontent-ref %}  
+[Server Premium](server-premium.md)  
 
-{% content-ref url="premium-faq.md" %}  
-[premium-faq.md](premium-faq.md)  
-{% endcontent-ref %}  
+[Premium Access FAQ](premium-faq.md)  
 
-{% content-ref url="how-to-buy.md" %}  
-[how-to-buy.md](how-to-buy.md)  
-{% endcontent-ref %}  
+[How to Buy](how-to-buy.md)  
 
 ### Other ways to support Leg
 
