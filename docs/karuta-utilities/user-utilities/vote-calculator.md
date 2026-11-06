@@ -4,7 +4,7 @@ description: See how far you are towards a voting goal!
 
 # Vote Calculator
 
-![Example of Vote Calculator](<../../.gitbook/assets/image (20).png>)  
+![Example of Vote Calculator](<../../assets/image (20).png>)  
 
 Vote Calculator shows you how far you are from a voting goal, how much time you have left, along with other information.  
 

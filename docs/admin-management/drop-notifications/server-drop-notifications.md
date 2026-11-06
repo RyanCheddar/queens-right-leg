@@ -7,4 +7,4 @@ While this is less elegant than Wishlist Notifications, it's another great optio
 !!! info  
     Command: "leg serverdropnotifications" / "leg serverdropnotif"  
 
-![Example of the serverdropnotif command](<../../.gitbook/assets/image (15).png>)  
+![Example of the serverdropnotif command](<../../assets/image (15).png>)  

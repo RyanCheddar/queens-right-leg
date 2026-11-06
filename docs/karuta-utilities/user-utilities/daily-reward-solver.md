@@ -4,7 +4,7 @@ description: Get answers for your Daily Quizzes
 
 # Daily Quiz Solver
 
-![Daily Reward Solver](<../../.gitbook/assets/image (34) (1).png>)  
+![Daily Reward Solver](<../../assets/image (34) (1).png>)  
 
 Daily Quiz Solver gives you the answer, as well as further elaboration, about Daily Quiz questions.  
 

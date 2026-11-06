@@ -13,4 +13,4 @@ Dropboards flawlessly build off Leg's Drop Analysis functionality, allowing you 
       
     Wishlist Notifications in Dropboards is a [Premium](../boring-stuff/premium-access/server-premium.md)-only feature.  
 
-![](<../.gitbook/assets/image (30).png>)  
+![](<../assets/image (30).png>)  

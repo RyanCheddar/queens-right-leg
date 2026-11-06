@@ -11,7 +11,7 @@ You can change the Leg features available in your server using this command:
 
     Aliases: "serverconfig", "serverfeatureset", "guildconfig", "guildfeatureset"  
 
-![Default feature settings](<../../.gitbook/assets/image (27).png>)  
+![Default feature settings](<../../assets/image (27).png>)  
 
 As an example, if you want to disable Date Solver in your entire server, do "leg featureset date\_solver false"  
 

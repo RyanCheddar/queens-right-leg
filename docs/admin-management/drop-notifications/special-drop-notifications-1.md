@@ -7,7 +7,7 @@ Special Print Drop Notifications allow you to ping a role when a drop contains a
 
     Aliases: "printdropnotifications", "printdropnotif", "specialprintnotifications", "specialprintnotif"  
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Example of the printnotif command</p></figcaption></figure>  
+<figure><img src="../../assets/image.png" alt=""><figcaption><p>Example of the printnotif command</p></figcaption></figure>  
 
 !!! info  
     When adding a role to be pinged using `leg printnotifadd [Role]`, you can also set a minimum print threshold for that role.  

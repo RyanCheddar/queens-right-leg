@@ -7,7 +7,7 @@ Wishlist Count Notifications allow you to make a role get pinged when a drop con
       
     Wishlist Count Notifications is a [Premium](../../boring-stuff/premium-access/server-premium.md)-only feature.  
 
-![Example of the wishlistnotif command](<../../.gitbook/assets/image (35).png>)  
+![Example of the wishlistnotif command](<../../assets/image (35).png>)  
 
 !!! info  
     You can also set an upper limit on wishlist count. This allows you to give users more granular control over what they're pinged for, or even lock higher wishlist pings behind level roles or server supporter roles.  

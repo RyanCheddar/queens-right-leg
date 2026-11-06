@@ -11,7 +11,7 @@ You can change the Leg features available to you using this command:
 
     Alias: "userfeatureset"  
 
-![Default feature settings](<../../.gitbook/assets/image (27).png>)  
+![Default feature settings](<../../assets/image (27).png>)  
 
 As an example, if you want to disable Date Solver for only yourself, do "leg userconfig date\_solver false"  
 
