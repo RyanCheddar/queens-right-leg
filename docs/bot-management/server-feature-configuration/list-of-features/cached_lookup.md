@@ -8,4 +8,4 @@ When you do too many lookups in Karuta, it locks you into a 9 second cooldown an
 
 This setting changes whether Leg will show cached lookup when this happens, to save you time.  
 
-![](<../../../.gitbook/assets/image (17).png>)  
+![](<../../../assets/image (17).png>)  

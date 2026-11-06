@@ -14,4 +14,4 @@ An example would be Collection Viewer, which requires you to reply to a Card Col
 
 Then, just type out your command and send!  
 
-![](<../.gitbook/assets/image (36).png>)  
+![](<../assets/image (36).png>)  

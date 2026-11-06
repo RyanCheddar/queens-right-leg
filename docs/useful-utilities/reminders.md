@@ -8,9 +8,6 @@ Reminders allow you to be notified when something happens. Maybe a character you
 
 Leg Reminders are integrated into several utilities, allowing you to set reminders with just a click.  
 
-!!! warning  
-    Leg Reminders’ notifications are sent using the main Leg bot. If your server is using a temporary bot (Such as Queen’s Right Leg 2), you might need to join Leg’s support server for reminders to function.  
-
 !!! info  
     Command: ”leg reminders”  
 

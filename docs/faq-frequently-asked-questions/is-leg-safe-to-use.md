@@ -2,7 +2,7 @@
 
 Karuta rules state:  
 
-![Screenshot from official Karuta Discord](<../.gitbook/assets/image (9).png>)  
+![Screenshot from official Karuta Discord](<../assets/image (9).png>)  
 
 As Leg does not interact with Karuta ever, it does not violate Rule 1. Rule 2 and 3 do not apply to Leg for obvious reasons.  
 

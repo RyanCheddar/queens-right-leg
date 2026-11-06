@@ -6,7 +6,7 @@ description: How Leg can ensure his analyses are always correct.
 
 Sometimes, you may notice that characters in drop analysis messages have percentages next to them.  
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>  
+<figure><img src="../../assets/image (1).png" alt=""><figcaption></figcaption></figure>  
 
 This is actually Leg's Confidence system in play, which helps Leg with always correctly identifying characters.  
 

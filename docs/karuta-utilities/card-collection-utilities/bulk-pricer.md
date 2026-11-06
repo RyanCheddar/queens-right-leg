@@ -8,7 +8,7 @@ Bulk Pricer allows you to get prices for many cards in your Card Collection at o
 
 This can be convenient for if you’re selling many cards on the market, and want to get a rough estimate of the prices, and even generate a selling ad with Leg!  
 
-![](<../../.gitbook/assets/image (4).png>)  
+![](<../../assets/image (4).png>)  
 
 !!! warning  
     Leg’s pricing are only very rough estimates, if you think an estimate is off, ask for pricing advice from players.  

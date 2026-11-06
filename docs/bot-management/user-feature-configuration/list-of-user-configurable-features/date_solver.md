@@ -4,7 +4,7 @@ description: Date Solver
 
 # date\_solver
 
-![Example of Date Solver](<../../../.gitbook/assets/image (7).png>)  
+![Example of Date Solver](<../../../assets/image (7).png>)  
 
 This controls whether Leg will summon the Date Solver when you start a date with a character.  
 

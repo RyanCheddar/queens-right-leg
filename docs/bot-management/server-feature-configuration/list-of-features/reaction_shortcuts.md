@@ -8,7 +8,7 @@ This controls whether Leg will add reaction shortcuts to Karuta menus that have 
 
 Reaction Shortcuts can be clicked on, which immediately jumps you to the Leg utility without needing you to type in any commands.  
 
-![The moneybag emoji is an example of a Reaction Shortcut for "leg price"](<../../../.gitbook/assets/image (13).png>)  
+![The moneybag emoji is an example of a Reaction Shortcut for "leg price"](<../../../assets/image (13).png>)  
 
 !!! info  
     Don't have Premium in your server? You can get reaction shortcut functionality by enabling "Allow self-added reaction shortcuts".  

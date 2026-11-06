@@ -13,8 +13,8 @@ With Channel Feature Override, you can change a feature's setting for only one c
 
 Once you do the command, you'll be greeted with an interface similar to "leg featureset".  
 
-<img src="../../.gitbook/assets/image (26).png" alt="" data-size="line"> If you see \[Inherited] next to a feature, this feature is being controlled by the [Global Configuration (a.k.a. "leg featureset")](./). If you change this setting for the guild, this channel will also be updated with the new setting.  
+<img src="../../assets/image (26).png" alt="" data-size="line"> If you see \[Inherited] next to a feature, this feature is being controlled by the [Global Configuration (a.k.a. "leg featureset")](./). If you change this setting for the guild, this channel will also be updated with the new setting.  
 
-<img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> If you don't see \[Inherited], this feature was specifically changed for this channel. It will not be affected by the Global Configuration no matter what changes you make.  
+<img src="../../assets/image (25).png" alt="" data-size="line"> If you don't see \[Inherited], this feature was specifically changed for this channel. It will not be affected by the Global Configuration no matter what changes you make.  
 
 Changing a feature's configuration using "leg channeloverride \[type] true/false" will result in it no longer inheriting. To make it reinherit the Global Configuration, do "leg channeloverride \[type] inherit", or press "Reset Channel Config" which resets all settings to use inheritance.  

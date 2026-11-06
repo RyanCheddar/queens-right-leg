@@ -11,7 +11,7 @@ The Frame List shows you every single frames available in Karuta.
 
     Alias: "frames"  
 
-![](<../../../.gitbook/assets/image (31) (1).png>)  
+![](<../../../assets/image (31) (1).png>)  
 
 !!! info  
     Some frames might look broken, ugly or have incorrect text colors. This is because these frames have not been optimized for frame testing use.  

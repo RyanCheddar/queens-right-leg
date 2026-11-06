@@ -4,7 +4,7 @@ description: Apricot Drop Analysis Engine
 
 # use\_apricot
 
-![apricot <33](../../../.gitbook/assets/bghnrfujrdmcksx.png)  
+![apricot <33](../../../assets/bghnrfujrdmcksx.png)  
 
 This setting controls whether your server uses the new Apricot Drop Analysis Engine when analysing drops.  
 

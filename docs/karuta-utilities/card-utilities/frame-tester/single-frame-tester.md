@@ -14,7 +14,7 @@ Single Frame Tester allows you to see how a specific frame looks on a character.
       
     You can skip typing in a Character UUID by [reply](../../../faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md)ing to a character's lookup page, in either Karuta or Leg.  
 
-![](<../../../.gitbook/assets/image (16).png>)  
+![](<../../../assets/image (16).png>)  
 
 !!! info  
     Some frames might look broken, ugly or have incorrect text colors. This is because these frames have not been optimized for frame testing use.  

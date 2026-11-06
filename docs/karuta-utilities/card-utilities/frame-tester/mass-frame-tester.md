@@ -14,7 +14,7 @@ Mass Frame Tester allows you to see how a bunch of frames look on a specific cha
 
     You can skip typing in a Character UUID by [reply](../../../faq-frequently-asked-questions/how-do-i-use-reply-based-commands.md)ing to a character's lookup page, in either Karuta or Leg.  
 
-![](<../../../.gitbook/assets/image (23).png>)  
+![](<../../../assets/image (23).png>)  
 
 !!! warning  
     Mass Frame Tester might take a while to generate. Unless it throws an error, it's likely still working.  

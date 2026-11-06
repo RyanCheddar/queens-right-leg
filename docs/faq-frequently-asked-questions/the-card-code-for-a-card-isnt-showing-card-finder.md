@@ -4,7 +4,7 @@ For some cards, the card code may be unavailable for different reasons.
 
 ### 🔥 "BURNT" - Card likely doesn't exist / no longer exists
 
-![](<../.gitbook/assets/image (37).png>)  
+![](<../assets/image (37).png>)  
 
 For cards marked as "BURNT", it was either not grabbed when it was dropped, or it was burnt.  
 
@@ -12,7 +12,7 @@ Leg uses multiple criterias to determine whether a card was burnt/unclaimed, and
 
 ### 🫥 "HIDDEN" - Card was hidden by the card owner
 
-![](<../.gitbook/assets/image (8).png>)  
+![](<../assets/image (8).png>)  
 
 For cards marked as "HIDDEN", the card was hidden by the card owner using the "leg hidecard" command.  
 
@@ -20,7 +20,7 @@ This can be for a myriad of reasons, and while you can try to look for the card 
 
 ### 🔒 "LOCKED" - Card was dropped too recently
 
-![](<../.gitbook/assets/image (31).png>)  
+![](<../assets/image (31).png>)  
 
 For cards marked as "LOCKED", the card dropped too recently and is temporarily unavailable to avoid low-print sniping.  
 

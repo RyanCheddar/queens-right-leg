@@ -109,7 +109,7 @@ nav:
               - use_apricot: bot-management/server-feature-configuration/list-of-features/use_apricot.md
               - error_messages: bot-management/server-feature-configuration/list-of-features/error_messages.md
               - reaction_shortcuts: bot-management/server-feature-configuration/list-of-features/reaction_shortcuts.md
-              - self_reaction: bot-management/server-feature-configuration/list-of-features/reaction_shortcuts-1.md
+              - self_reaction: bot-management/server-feature-configuration/list-of-features/self_reaction.md
       - User Feature Configuration:
           - bot-management/user-feature-configuration/README.md
           - List of User-Configurable Features:
