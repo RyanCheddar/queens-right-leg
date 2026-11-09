@@ -5,9 +5,15 @@ description: Find paths that let you finish your date easily!
 # Date Solver (Beta)
 
 !!! info  
-    Date Solver is still in Beta. You can enable/disable it with:  
-    \- "[leg userconfig](../bot-management/user-feature-configuration/) date\_solver true/false" (Users)  
-    \- "[leg featureset](../bot-management/server-feature-configuration/) date\_solver true/false" (Servers)  
+    Date Solver is being reenabled after a few years of it being disabled out of performance concerns. Leg's Date Solver can be invoked by running `kvi` during a date.  
+    
+    While the performance impact of Date Solver is being evaluated, it will be restricted to users with Leg Premium. Hopefully it will be reenabled for all users soon.
+
+!!! info  
+    Date Solver is still in Beta. You can enable/disable it with:
+
+    - "[leg userconfig](../bot-management/user-feature-configuration/) date\_solver true/false" (Users)  
+    - "[leg featureset](../bot-management/server-feature-configuration/) date\_solver true/false" (Servers)  
 
 !!! info  
     Currently, Beta limitations include:  
